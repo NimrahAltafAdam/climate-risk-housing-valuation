@@ -217,7 +217,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Data files (do not track datasets)
-data/raw/
-data/interim/
-data/processed/
+
