@@ -1,0 +1,202 @@
+model,feature,importance
+Decision Tree,CFLD_RISKS,0.28307388034262737
+Decision Tree,neighbor_avg_price_growth_pct,0.28048216939298926
+Decision Tree,RESL_SCORE,0.09989594806917838
+Decision Tree,climate_disaster_count,0.06150791254644271
+Decision Tree,annual_price_growth_dollar,0.04441292899702392
+Decision Tree,nfip_recent_3yr_claim_payment,0.04180077846052679
+Decision Tree,SOVI_SCORE,0.041107462609942795
+Decision Tree,neighbor_avg_housing_price,0.038257933416914226
+Decision Tree,nfip_cumulative_claim_payment,0.03736316085876319
+Decision Tree,nfip_avg_claim_payment,0.025139842389044754
+Decision Tree,nfip_total_claim_payment,0.01480795578535808
+Decision Tree,annual_price_volatility,0.009445146640373032
+Decision Tree,cumulative_climate_disaster_count,0.007921310110621659
+Decision Tree,HRCN_RISKS,0.006550500212728712
+Decision Tree,nfip_policy_count_sum,0.0045594340342391985
+Decision Tree,SizeRank,0.0028561227401981315
+Decision Tree,acs_total_population,0.0005100219178925339
+Decision Tree,neighbor_count,0.0003074914751352027
+Decision Tree,Year,0.0
+Decision Tree,avg_annual_housing_price,0.0
+Decision Tree,median_annual_housing_price,0.0
+Decision Tree,min_annual_housing_price,0.0
+Decision Tree,max_annual_housing_price,0.0
+Decision Tree,monthly_observations,0.0
+Decision Tree,is_metro,0.0
+Decision Tree,POPULATION,0.0
+Decision Tree,prev_year_housing_price,0.0
+Decision Tree,annual_price_growth_pct,0.0
+Decision Tree,baseline_housing_price,0.0
+Decision Tree,appreciation_from_baseline_pct,0.0
+Decision Tree,price_growth_acceleration,0.0
+Decision Tree,high_growth_flag,0.0
+Decision Tree,high_volatility_flag,0.0
+Decision Tree,complete_year_flag,0.0
+Decision Tree,neighbor_avg_price_volatility,0.0
+Decision Tree,neighbor_high_growth_share,0.0
+Decision Tree,neighbor_high_volatility_share,0.0
+Decision Tree,disaster_count,0.0
+Decision Tree,unique_disaster_events,0.0
+Decision Tree,hurricane_disaster_count,0.0
+Decision Tree,tropical_storm_disaster_count,0.0
+Decision Tree,severe_storm_disaster_count,0.0
+Decision Tree,flood_disaster_count,0.0
+Decision Tree,fire_disaster_count,0.0
+Decision Tree,any_disaster_flag,0.0
+Decision Tree,any_climate_disaster_flag,0.0
+Decision Tree,cumulative_disaster_count,0.0
+Decision Tree,recent_3yr_disaster_count,0.0
+Decision Tree,recent_3yr_climate_disaster_count,0.0
+Decision Tree,median_household_income,0.0
+Decision Tree,poverty_rate,0.0
+Decision Tree,unemployment_rate,0.0
+Decision Tree,owner_occupied_share,0.0
+Decision Tree,renter_occupied_share,0.0
+Decision Tree,median_gross_rent,0.0
+Decision Tree,acs_median_home_value,0.0
+Decision Tree,price_to_income_ratio,0.0
+Decision Tree,acs_estimated_2025_flag,0.0
+Decision Tree,nfip_claim_count,0.0
+Decision Tree,nfip_total_building_payment,0.0
+Decision Tree,nfip_total_contents_payment,0.0
+Decision Tree,nfip_total_icc_payment,0.0
+Decision Tree,nfip_total_building_coverage,0.0
+Decision Tree,nfip_total_contents_coverage,0.0
+Decision Tree,nfip_cumulative_claim_count,0.0
+Decision Tree,nfip_recent_3yr_claim_count,0.0
+Decision Tree,nfip_claim_year_indicator,0.0
+Random Forest,neighbor_avg_price_growth_pct,0.06533177577725399
+Random Forest,nfip_cumulative_claim_count,0.0548842444502406
+Random Forest,CFLD_RISKS,0.04751138886817048
+Random Forest,annual_price_growth_pct,0.045567103861109265
+Random Forest,nfip_cumulative_claim_payment,0.04497983912777553
+Random Forest,neighbor_avg_price_volatility,0.04209608779454785
+Random Forest,annual_price_growth_dollar,0.04136087732545754
+Random Forest,neighbor_high_growth_share,0.03533625219191827
+Random Forest,appreciation_from_baseline_pct,0.03526976103770689
+Random Forest,neighbor_avg_housing_price,0.033188694373794035
+Random Forest,RESL_SCORE,0.03241732086721048
+Random Forest,price_to_income_ratio,0.03107893616799996
+Random Forest,neighbor_high_volatility_share,0.02836671032977809
+Random Forest,HRCN_RISKS,0.027304487088789676
+Random Forest,SOVI_SCORE,0.027041795437334107
+Random Forest,nfip_total_claim_payment,0.023980459004317323
+Random Forest,nfip_recent_3yr_claim_payment,0.02345281798677475
+Random Forest,nfip_policy_count_sum,0.023012927589348364
+Random Forest,nfip_total_building_payment,0.02277491424714002
+Random Forest,annual_price_volatility,0.019660222833336665
+Random Forest,nfip_total_building_coverage,0.019057450287640883
+Random Forest,nfip_claim_count,0.019040900452116816
+Random Forest,nfip_recent_3yr_claim_count,0.017190291649451094
+Random Forest,high_growth_flag,0.014646852186524872
+Random Forest,nfip_total_contents_coverage,0.014130105295536221
+Random Forest,median_household_income,0.01205116698942588
+Random Forest,nfip_avg_claim_payment,0.010894804366242466
+Random Forest,cumulative_disaster_count,0.010701839177018302
+Random Forest,max_annual_housing_price,0.010264330113464165
+Random Forest,Year,0.009816881249355593
+Random Forest,avg_annual_housing_price,0.009188905326085128
+Random Forest,baseline_housing_price,0.008760149331611043
+Random Forest,cumulative_climate_disaster_count,0.008741545180257158
+Random Forest,recent_3yr_disaster_count,0.00873594701750041
+Random Forest,poverty_rate,0.00832411654009811
+Random Forest,median_annual_housing_price,0.007869622318139513
+Random Forest,renter_occupied_share,0.007395612568692137
+Random Forest,nfip_total_contents_payment,0.007356799150724188
+Random Forest,owner_occupied_share,0.007173460075310964
+Random Forest,median_gross_rent,0.007131493734863142
+Random Forest,acs_total_population,0.0070031979122106205
+Random Forest,min_annual_housing_price,0.006984845328025541
+Random Forest,unemployment_rate,0.006385567693044908
+Random Forest,prev_year_housing_price,0.006010932138278488
+Random Forest,acs_median_home_value,0.0056981689197879515
+Random Forest,recent_3yr_climate_disaster_count,0.005448072162265097
+Random Forest,SizeRank,0.0053161848894673295
+Random Forest,POPULATION,0.004516384052777165
+Random Forest,price_growth_acceleration,0.0044774528050530145
+Random Forest,climate_disaster_count,0.00419049996613855
+Random Forest,high_volatility_flag,0.0038148722099745204
+Random Forest,hurricane_disaster_count,0.0037727750357800507
+Random Forest,neighbor_count,0.0032848044411682153
+Random Forest,disaster_count,0.0032420484395427854
+Random Forest,unique_disaster_events,0.002419425770586581
+Random Forest,nfip_claim_year_indicator,0.0018254125180748116
+Random Forest,any_disaster_flag,0.0007657634843124076
+Random Forest,any_climate_disaster_flag,0.0006661442329238696
+Random Forest,nfip_total_icc_payment,0.00038563612804712723
+Random Forest,is_metro,0.0002809296592008739
+Random Forest,tropical_storm_disaster_count,0.0002597100333730534
+Random Forest,severe_storm_disaster_count,0.00016228280990513339
+Random Forest,monthly_observations,0.0
+Random Forest,complete_year_flag,0.0
+Random Forest,flood_disaster_count,0.0
+Random Forest,fire_disaster_count,0.0
+Random Forest,acs_estimated_2025_flag,0.0
+XGBoost,nfip_cumulative_claim_count,0.06726006418466568
+XGBoost,high_growth_flag,0.05500257387757301
+XGBoost,neighbor_avg_price_growth_pct,0.046130795031785965
+XGBoost,CFLD_RISKS,0.033569157123565674
+XGBoost,neighbor_high_volatility_share,0.03273392468690872
+XGBoost,annual_price_growth_dollar,0.03170384094119072
+XGBoost,nfip_total_building_payment,0.03123118355870247
+XGBoost,nfip_total_claim_payment,0.027350233867764473
+XGBoost,neighbor_high_growth_share,0.02691509760916233
+XGBoost,neighbor_avg_price_volatility,0.026907484978437424
+XGBoost,annual_price_growth_pct,0.026157399639487267
+XGBoost,SOVI_SCORE,0.025952253490686417
+XGBoost,nfip_cumulative_claim_payment,0.023440243676304817
+XGBoost,cumulative_climate_disaster_count,0.021823715418577194
+XGBoost,Year,0.02117559313774109
+XGBoost,cumulative_disaster_count,0.02019936963915825
+XGBoost,RESL_SCORE,0.01952200010418892
+XGBoost,nfip_recent_3yr_claim_payment,0.01945171318948269
+XGBoost,neighbor_avg_housing_price,0.019054880365729332
+XGBoost,appreciation_from_baseline_pct,0.018915589898824692
+XGBoost,nfip_total_contents_payment,0.01834421418607235
+XGBoost,high_volatility_flag,0.017871925607323647
+XGBoost,recent_3yr_disaster_count,0.017121264711022377
+XGBoost,HRCN_RISKS,0.015870898962020874
+XGBoost,unique_disaster_events,0.01582481898367405
+XGBoost,disaster_count,0.015211735852062702
+XGBoost,price_to_income_ratio,0.01499226689338684
+XGBoost,nfip_total_building_coverage,0.01469505950808525
+XGBoost,nfip_recent_3yr_claim_count,0.014198197051882744
+XGBoost,nfip_policy_count_sum,0.014045830816030502
+XGBoost,climate_disaster_count,0.013755145482718945
+XGBoost,max_annual_housing_price,0.013230426236987114
+XGBoost,nfip_claim_count,0.012891857884824276
+XGBoost,renter_occupied_share,0.012820781208574772
+XGBoost,nfip_avg_claim_payment,0.011646375060081482
+XGBoost,neighbor_count,0.011580141261219978
+XGBoost,annual_price_volatility,0.011568866670131683
+XGBoost,median_annual_housing_price,0.011263765394687653
+XGBoost,hurricane_disaster_count,0.010625469498336315
+XGBoost,severe_storm_disaster_count,0.00937066413462162
+XGBoost,baseline_housing_price,0.009309149347245693
+XGBoost,nfip_total_contents_coverage,0.009120775386691093
+XGBoost,min_annual_housing_price,0.008261903189122677
+XGBoost,POPULATION,0.008256478235125542
+XGBoost,poverty_rate,0.008239924907684326
+XGBoost,median_gross_rent,0.008115297183394432
+XGBoost,avg_annual_housing_price,0.008024755865335464
+XGBoost,acs_total_population,0.007977677509188652
+XGBoost,recent_3yr_climate_disaster_count,0.007916382513940334
+XGBoost,nfip_total_icc_payment,0.007638625334948301
+XGBoost,median_household_income,0.007335344795137644
+XGBoost,owner_occupied_share,0.006770654581487179
+XGBoost,acs_median_home_value,0.006535046733915806
+XGBoost,unemployment_rate,0.005735187791287899
+XGBoost,price_growth_acceleration,0.005495001561939716
+XGBoost,prev_year_housing_price,0.005295171868056059
+XGBoost,SizeRank,0.004827483091503382
+XGBoost,is_metro,0.0032279740553349257
+XGBoost,any_climate_disaster_flag,0.0004904865054413676
+XGBoost,monthly_observations,0.0
+XGBoost,complete_year_flag,0.0
+XGBoost,tropical_storm_disaster_count,0.0
+XGBoost,flood_disaster_count,0.0
+XGBoost,fire_disaster_count,0.0
+XGBoost,any_disaster_flag,0.0
+XGBoost,acs_estimated_2025_flag,0.0
+XGBoost,nfip_claim_year_indicator,0.0
