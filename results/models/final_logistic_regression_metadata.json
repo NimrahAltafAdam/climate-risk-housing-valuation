@@ -1,0 +1,105 @@
+{
+  "model_name": "Logistic Regression",
+  "target_column": "vulnerability_class",
+  "class_order": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "feature_count": 67,
+  "training_year_start": 2011,
+  "training_year_end": 2022,
+  "testing_year_start": 2023,
+  "testing_year_end": 2025,
+  "train_end_year_setting": 2022,
+  "test_start_year_setting": 2023,
+  "random_state": 42,
+  "training_observations": 799,
+  "testing_observations": 201,
+  "cross_validation_folds": [
+    {
+      "fold": 1,
+      "train_years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ],
+      "validation_years": [
+        2015,
+        2016
+      ]
+    },
+    {
+      "fold": 2,
+      "train_years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016
+      ],
+      "validation_years": [
+        2017,
+        2018
+      ]
+    },
+    {
+      "fold": 3,
+      "train_years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ],
+      "validation_years": [
+        2019,
+        2020
+      ]
+    },
+    {
+      "fold": 4,
+      "train_years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "validation_years": [
+        2021
+      ]
+    },
+    {
+      "fold": 5,
+      "train_years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021
+      ],
+      "validation_years": [
+        2022
+      ]
+    }
+  ],
+  "scikit_learn_version": "1.9.0",
+  "exported_at_utc": "2026-07-17T22:42:56.137125+00:00"
+}

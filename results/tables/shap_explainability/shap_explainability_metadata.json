@@ -1,0 +1,47 @@
+{
+    "notebook": "08_shap_explainability_and_county_stories",
+    "model_type": "Multinomial Logistic Regression",
+    "shap_explainer": "LinearExplainer",
+    "model_feature_count": 67,
+    "model_class_order": [
+        "High",
+        "Low",
+        "Medium"
+    ],
+    "training_period": "2011-2022",
+    "holdout_period": "2023-2025",
+    "holdout_observations": 201,
+    "holdout_accuracy": 0.7761194029850746,
+    "holdout_macro_f1": 0.7687273531192506,
+    "selected_local_cases": [
+        {
+            "RegionName": "Miami-Dade County",
+            "Year": 2025,
+            "case_label": "Robust Hidden Exposure"
+        },
+        {
+            "RegionName": "Collier County",
+            "Year": 2025,
+            "case_label": "Robust Disaster-Loss Pressure"
+        },
+        {
+            "RegionName": "Jefferson County",
+            "Year": 2025,
+            "case_label": "Socioeconomic Stress Pathway"
+        },
+        {
+            "RegionName": "Saint Johns County",
+            "Year": 2025,
+            "case_label": "Resilience-Based Protection"
+        }
+    ],
+    "priority_hidden_risk_counties": [
+        "Hernando County",
+        "Collier County",
+        "Monroe County",
+        "Miami-Dade County",
+        "Dixie County",
+        "Levy County"
+    ],
+    "interpretation_note": "SHAP values explain model scores and associations. They do not establish causal effects."
+}

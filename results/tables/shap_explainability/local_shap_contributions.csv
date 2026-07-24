@@ -1,0 +1,41 @@
+case_order,case_label,RegionName,Year,actual_class,predicted_class,predicted_probability,cluster_name,local_rank,feature,feature_value,shap_value,absolute_shap_value,contribution_direction
+1,Robust Hidden Exposure,Miami-Dade County,2025,High,High,0.9995224384651624,High-Exposure Latent Risk,1,CFLD_RISKS,99.6,3.5668789746531058,3.5668789746531058,Toward High
+1,Robust Hidden Exposure,Miami-Dade County,2025,High,High,0.9995224384651624,High-Exposure Latent Risk,2,neighbor_high_growth_share,0.0,-2.791815128341709,2.791815128341709,Away from High
+1,Robust Hidden Exposure,Miami-Dade County,2025,High,High,0.9995224384651624,High-Exposure Latent Risk,3,nfip_cumulative_claim_count,9370.0,2.5388035447821093,2.5388035447821093,Toward High
+1,Robust Hidden Exposure,Miami-Dade County,2025,High,High,0.9995224384651624,High-Exposure Latent Risk,4,price_to_income_ratio,6.737944177448634,2.37311628731102,2.37311628731102,Toward High
+1,Robust Hidden Exposure,Miami-Dade County,2025,High,High,0.9995224384651624,High-Exposure Latent Risk,5,acs_total_population,2719757.6999999974,2.372835450801036,2.372835450801036,Toward High
+1,Robust Hidden Exposure,Miami-Dade County,2025,High,High,0.9995224384651624,High-Exposure Latent Risk,6,median_gross_rent,1957.100000000093,2.0125206386344296,2.0125206386344296,Toward High
+1,Robust Hidden Exposure,Miami-Dade County,2025,High,High,0.9995224384651624,High-Exposure Latent Risk,7,POPULATION,2698679.0,1.9566674475434533,1.9566674475434533,Toward High
+1,Robust Hidden Exposure,Miami-Dade County,2025,High,High,0.9995224384651624,High-Exposure Latent Risk,8,acs_median_home_value,502940.0000000149,-1.8411886706795348,1.8411886706795348,Away from High
+1,Robust Hidden Exposure,Miami-Dade County,2025,High,High,0.9995224384651624,High-Exposure Latent Risk,9,median_household_income,77220.90000000037,-1.6898704701305438,1.6898704701305438,Away from High
+1,Robust Hidden Exposure,Miami-Dade County,2025,High,High,0.9995224384651624,High-Exposure Latent Risk,10,Year,2025.0,-1.3679851413115176,1.3679851413115176,Away from High
+2,Robust Disaster-Loss Pressure,Collier County,2025,High,High,0.9994588137812286,Disaster-Loss Growth Pressure,1,nfip_cumulative_claim_count,12816.0,3.5410609612364743,3.5410609612364743,Toward High
+2,Robust Disaster-Loss Pressure,Collier County,2025,High,High,0.9994588137812286,Disaster-Loss Growth Pressure,2,CFLD_RISKS,95.2,3.264850071505592,3.264850071505592,Toward High
+2,Robust Disaster-Loss Pressure,Collier County,2025,High,High,0.9994588137812286,Disaster-Loss Growth Pressure,3,neighbor_high_growth_share,0.0,-2.791815128341709,2.791815128341709,Away from High
+2,Robust Disaster-Loss Pressure,Collier County,2025,High,High,0.9994588137812286,Disaster-Loss Growth Pressure,4,median_household_income,95883.60000000335,-2.7896500585058246,2.7896500585058246,Away from High
+2,Robust Disaster-Loss Pressure,Collier County,2025,High,High,0.9994588137812286,Disaster-Loss Growth Pressure,5,cumulative_climate_disaster_count,21.0,2.5515107794138645,2.5515107794138645,Toward High
+2,Robust Disaster-Loss Pressure,Collier County,2025,High,High,0.9994588137812286,Disaster-Loss Growth Pressure,6,acs_median_home_value,580590.0,-2.2590357499771163,2.2590357499771163,Away from High
+2,Robust Disaster-Loss Pressure,Collier County,2025,High,High,0.9994588137812286,Disaster-Loss Growth Pressure,7,nfip_cumulative_claim_payment,1114534735.9,2.176633782119792,2.176633782119792,Toward High
+2,Robust Disaster-Loss Pressure,Collier County,2025,High,High,0.9994588137812286,Disaster-Loss Growth Pressure,8,median_gross_rent,1991.800000000163,2.0794352201175808,2.0794352201175808,Toward High
+2,Robust Disaster-Loss Pressure,Collier County,2025,High,High,0.9994588137812286,Disaster-Loss Growth Pressure,9,recent_3yr_climate_disaster_count,8.0,1.9631148794202575,1.9631148794202575,Toward High
+2,Robust Disaster-Loss Pressure,Collier County,2025,High,High,0.9994588137812286,Disaster-Loss Growth Pressure,10,price_to_income_ratio,5.935039438386885,1.74796406052682,1.74796406052682,Toward High
+3,Socioeconomic Stress Pathway,Jefferson County,2025,Low,Low,0.999798989871756,Socioeconomic Resilience Stress,1,neighbor_high_growth_share,0.0,2.354681410265848,2.354681410265848,Toward Low
+3,Socioeconomic Stress Pathway,Jefferson County,2025,Low,Low,0.999798989871756,Socioeconomic Resilience Stress,2,nfip_claim_year_indicator,0.0,1.9757006718438366,1.9757006718438366,Toward Low
+3,Socioeconomic Stress Pathway,Jefferson County,2025,Low,Low,0.999798989871756,Socioeconomic Resilience Stress,3,SOVI_SCORE,97.90076336,-1.824045138700838,1.824045138700838,Away from Low
+3,Socioeconomic Stress Pathway,Jefferson County,2025,Low,Low,0.999798989871756,Socioeconomic Resilience Stress,4,neighbor_high_volatility_share,0.0,1.711931006458286,1.711931006458286,Toward Low
+3,Socioeconomic Stress Pathway,Jefferson County,2025,Low,Low,0.999798989871756,Socioeconomic Resilience Stress,5,recent_3yr_climate_disaster_count,7.0,-1.5482434527972464,1.5482434527972464,Away from Low
+3,Socioeconomic Stress Pathway,Jefferson County,2025,Low,Low,0.999798989871756,Socioeconomic Resilience Stress,6,cumulative_climate_disaster_count,21.0,-1.2390114350680985,1.2390114350680985,Away from Low
+3,Socioeconomic Stress Pathway,Jefferson County,2025,Low,Low,0.999798989871756,Socioeconomic Resilience Stress,7,Year,2025.0,1.226040377315333,1.226040377315333,Toward Low
+3,Socioeconomic Stress Pathway,Jefferson County,2025,Low,Low,0.999798989871756,Socioeconomic Resilience Stress,8,SizeRank,2196.0,1.1889226126170398,1.1889226126170398,Toward Low
+3,Socioeconomic Stress Pathway,Jefferson County,2025,Low,Low,0.999798989871756,Socioeconomic Resilience Stress,9,median_household_income,62835.80000000261,1.1870948325041006,1.1870948325041006,Toward Low
+3,Socioeconomic Stress Pathway,Jefferson County,2025,Low,Low,0.999798989871756,Socioeconomic Resilience Stress,10,nfip_avg_claim_payment,0.0,0.9061590306005597,0.9061590306005597,Toward Low
+4,Resilience-Based Protection,Saint Johns County,2025,Low,Low,0.9999995573610906,Lower-Stress Resilient Profile,1,RESL_SCORE,96.27862595419847,8.801047641940219,8.801047641940219,Toward Low
+4,Resilience-Based Protection,Saint Johns County,2025,Low,Low,0.9999995573610906,Lower-Stress Resilient Profile,2,median_household_income,118559.10000000148,5.815755122917723,5.815755122917723,Toward Low
+4,Resilience-Based Protection,Saint Johns County,2025,Low,Low,0.9999995573610906,Lower-Stress Resilient Profile,3,acs_median_home_value,538050.0000000298,3.6285858947630136,3.6285858947630136,Toward Low
+4,Resilience-Based Protection,Saint Johns County,2025,Low,Low,0.9999995573610906,Lower-Stress Resilient Profile,4,median_gross_rent,2057.100000000093,-2.9541930631537787,2.9541930631537787,Away from Low
+4,Resilience-Based Protection,Saint Johns County,2025,Low,Low,0.9999995573610906,Lower-Stress Resilient Profile,5,CFLD_RISKS,89.0,-2.709350303096286,2.709350303096286,Away from Low
+4,Resilience-Based Protection,Saint Johns County,2025,Low,Low,0.9999995573610906,Lower-Stress Resilient Profile,6,neighbor_high_growth_share,0.0,2.354681410265848,2.354681410265848,Toward Low
+4,Resilience-Based Protection,Saint Johns County,2025,Low,Low,0.9999995573610906,Lower-Stress Resilient Profile,7,SOVI_SCORE,11.38676845,2.1212035938761113,2.1212035938761113,Toward Low
+4,Resilience-Based Protection,Saint Johns County,2025,Low,Low,0.9999995573610906,Lower-Stress Resilient Profile,8,nfip_cumulative_claim_count,6504.0,-1.2800311686874248,1.2800311686874248,Away from Low
+4,Resilience-Based Protection,Saint Johns County,2025,Low,Low,0.9999995573610906,Lower-Stress Resilient Profile,9,Year,2025.0,1.226040377315333,1.226040377315333,Toward Low
+4,Resilience-Based Protection,Saint Johns County,2025,Low,Low,0.9999995573610906,Lower-Stress Resilient Profile,10,recent_3yr_climate_disaster_count,6.0,-1.2233917002170436,1.2233917002170436,Away from Low

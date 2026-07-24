@@ -1,0 +1,6 @@
+feature_group,requested_features,available_features,numeric_features,missing_features,leakage_columns_found
+Housing Only,16,16,16,0,0
+Housing + Climate,18,18,18,0,0
+Housing + Climate + Disaster,32,32,32,0,0
+Housing + Climate + Disaster + ACS,47,47,47,0,0
+Full Model,67,67,67,0,0

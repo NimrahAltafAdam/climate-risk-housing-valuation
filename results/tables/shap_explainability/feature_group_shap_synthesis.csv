@@ -1,0 +1,8 @@
+group_rank,feature_dimension,feature_count,group_contribution_pct,average_shap_per_feature,leading_feature,interpretation
+1,Socioeconomic and Affordability Stress,14,23.524575134525996,0.4217579001955515,median_household_income,"This is the largest collective SHAP dimension, although its features showed less consistent temporal-validation gains."
+2,Disaster History,14,20.776657735646836,0.37249214872354525,cumulative_climate_disaster_count,"Disaster indicators provide substantial collective information, consistent with the large performance gain when this layer was added."
+3,Insurance-Loss Stress,14,13.692033497817855,0.24547619943926216,nfip_avg_claim_payment,NFIP indicators add realized-loss information beyond hazard exposure and disaster declarations.
+4,Spatial Spillover,6,13.233269192152411,0.5535863462927246,neighbor_high_growth_share,Neighbouring market conditions are influential despite the group containing only six variables.
+5,Housing Pressure and Market Conditions,15,13.090461555664735,0.21904491410733945,price_growth_acceleration,Housing conditions contribute useful context but do not dominate the final classifier.
+6,Climate Exposure,2,8.75406248816474,1.0986240960582512,CFLD_RISKS,"Only two exposure variables are included, but each has a strong average contribution."
+7,Resilience,1,6.928940396027426,1.7391470279127574,RESL_SCORE,The single resilience variable has the strongest average per-feature SHAP contribution.

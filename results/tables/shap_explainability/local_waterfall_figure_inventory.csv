@@ -1,0 +1,5 @@
+case_order,RegionName,Year,explained_class,figure_path
+1,Miami-Dade County,2025,High,..\results\figures\shap_explainability\shap_waterfall_1_miami_dade_county_2025.png
+2,Collier County,2025,High,..\results\figures\shap_explainability\shap_waterfall_2_collier_county_2025.png
+3,Jefferson County,2025,Low,..\results\figures\shap_explainability\shap_waterfall_3_jefferson_county_2025.png
+4,Saint Johns County,2025,Low,..\results\figures\shap_explainability\shap_waterfall_4_saint_johns_county_2025.png

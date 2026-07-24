@@ -1,0 +1,46 @@
+feature_group,actual_class,predicted_class,count
+Housing Only,Low,Low,2
+Housing Only,Low,Medium,27
+Housing Only,Low,High,24
+Housing Only,Medium,Low,1
+Housing Only,Medium,Medium,20
+Housing Only,Medium,High,58
+Housing Only,High,Low,0
+Housing Only,High,Medium,18
+Housing Only,High,High,51
+Housing + Climate,Low,Low,9
+Housing + Climate,Low,Medium,40
+Housing + Climate,Low,High,4
+Housing + Climate,Medium,Low,1
+Housing + Climate,Medium,Medium,44
+Housing + Climate,Medium,High,34
+Housing + Climate,High,Low,2
+Housing + Climate,High,Medium,19
+Housing + Climate,High,High,48
+Housing + Climate + Disaster,Low,Low,40
+Housing + Climate + Disaster,Low,Medium,13
+Housing + Climate + Disaster,Low,High,0
+Housing + Climate + Disaster,Medium,Low,9
+Housing + Climate + Disaster,Medium,Medium,65
+Housing + Climate + Disaster,Medium,High,5
+Housing + Climate + Disaster,High,Low,3
+Housing + Climate + Disaster,High,Medium,32
+Housing + Climate + Disaster,High,High,34
+Housing + Climate + Disaster + ACS,Low,Low,46
+Housing + Climate + Disaster + ACS,Low,Medium,7
+Housing + Climate + Disaster + ACS,Low,High,0
+Housing + Climate + Disaster + ACS,Medium,Low,26
+Housing + Climate + Disaster + ACS,Medium,Medium,48
+Housing + Climate + Disaster + ACS,Medium,High,5
+Housing + Climate + Disaster + ACS,High,Low,1
+Housing + Climate + Disaster + ACS,High,Medium,13
+Housing + Climate + Disaster + ACS,High,High,55
+Full Model,Low,Low,53
+Full Model,Low,Medium,0
+Full Model,Low,High,0
+Full Model,Medium,Low,33
+Full Model,Medium,Medium,38
+Full Model,Medium,High,8
+Full Model,High,Low,0
+Full Model,High,Medium,4
+Full Model,High,High,65

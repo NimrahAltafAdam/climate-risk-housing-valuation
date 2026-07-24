@@ -1,0 +1,68 @@
+feature,feature_dimension
+Year,Temporal Control
+avg_annual_housing_price,Housing Pressure and Market Conditions
+median_annual_housing_price,Housing Pressure and Market Conditions
+min_annual_housing_price,Housing Pressure and Market Conditions
+max_annual_housing_price,Housing Pressure and Market Conditions
+annual_price_volatility,Housing Pressure and Market Conditions
+monthly_observations,Housing Pressure and Market Conditions
+is_metro,Socioeconomic and Affordability Stress
+SizeRank,Socioeconomic and Affordability Stress
+POPULATION,Socioeconomic and Affordability Stress
+CFLD_RISKS,Climate Exposure
+HRCN_RISKS,Climate Exposure
+SOVI_SCORE,Socioeconomic and Affordability Stress
+RESL_SCORE,Resilience
+prev_year_housing_price,Housing Pressure and Market Conditions
+annual_price_growth_dollar,Housing Pressure and Market Conditions
+annual_price_growth_pct,Housing Pressure and Market Conditions
+baseline_housing_price,Housing Pressure and Market Conditions
+appreciation_from_baseline_pct,Housing Pressure and Market Conditions
+price_growth_acceleration,Housing Pressure and Market Conditions
+high_growth_flag,Housing Pressure and Market Conditions
+high_volatility_flag,Housing Pressure and Market Conditions
+complete_year_flag,Housing Pressure and Market Conditions
+neighbor_count,Spatial Spillover
+neighbor_avg_housing_price,Spatial Spillover
+neighbor_avg_price_growth_pct,Spatial Spillover
+neighbor_avg_price_volatility,Spatial Spillover
+neighbor_high_growth_share,Spatial Spillover
+neighbor_high_volatility_share,Spatial Spillover
+disaster_count,Disaster History
+unique_disaster_events,Disaster History
+climate_disaster_count,Disaster History
+hurricane_disaster_count,Disaster History
+tropical_storm_disaster_count,Disaster History
+severe_storm_disaster_count,Disaster History
+flood_disaster_count,Disaster History
+fire_disaster_count,Disaster History
+any_disaster_flag,Disaster History
+any_climate_disaster_flag,Disaster History
+cumulative_disaster_count,Disaster History
+cumulative_climate_disaster_count,Disaster History
+recent_3yr_disaster_count,Disaster History
+recent_3yr_climate_disaster_count,Disaster History
+acs_total_population,Socioeconomic and Affordability Stress
+median_household_income,Socioeconomic and Affordability Stress
+poverty_rate,Socioeconomic and Affordability Stress
+unemployment_rate,Socioeconomic and Affordability Stress
+owner_occupied_share,Socioeconomic and Affordability Stress
+renter_occupied_share,Socioeconomic and Affordability Stress
+median_gross_rent,Socioeconomic and Affordability Stress
+acs_median_home_value,Socioeconomic and Affordability Stress
+price_to_income_ratio,Socioeconomic and Affordability Stress
+acs_estimated_2025_flag,Socioeconomic and Affordability Stress
+nfip_claim_count,Insurance-Loss Stress
+nfip_policy_count_sum,Insurance-Loss Stress
+nfip_total_building_payment,Insurance-Loss Stress
+nfip_total_contents_payment,Insurance-Loss Stress
+nfip_total_icc_payment,Insurance-Loss Stress
+nfip_total_claim_payment,Insurance-Loss Stress
+nfip_avg_claim_payment,Insurance-Loss Stress
+nfip_total_building_coverage,Insurance-Loss Stress
+nfip_total_contents_coverage,Insurance-Loss Stress
+nfip_cumulative_claim_count,Insurance-Loss Stress
+nfip_cumulative_claim_payment,Insurance-Loss Stress
+nfip_recent_3yr_claim_count,Insurance-Loss Stress
+nfip_recent_3yr_claim_payment,Insurance-Loss Stress
+nfip_claim_year_indicator,Insurance-Loss Stress
