@@ -1,5 +1,5 @@
 {
-    "notebook": "08_shap_explainability_and_county_stories",
+    "notebook": "08_explainable_ai_analysis",
     "model_type": "Multinomial Logistic Regression",
     "shap_explainer": "LinearExplainer",
     "model_feature_count": 67,

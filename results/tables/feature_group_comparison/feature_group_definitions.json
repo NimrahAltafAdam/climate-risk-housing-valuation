@@ -219,7 +219,8 @@
     "model_settings": {
         "model": "Logistic Regression",
         "random_state": 42,
-        "primary_evaluation_metric": "Macro F1"
+        "primary_evaluation_metric": "Macro F1",
+        "scikit_learn_version": "1.9.0"
     },
     "cv_fold_definitions": [
         {
@@ -258,6 +259,7 @@
         "significance_level": 0.05,
         "confidence_level": 0.95,
         "difference_direction": "Housing + Climate minus Housing Only",
-        "interpretation_scope": "Performance difference within the five aligned expanding-window temporal cross-validation folds"
+        "interpretation_scope": "Performance difference within five aligned, overlapping expanding-window temporal cross-validation folds; interpreted as supporting evidence",
+        "scipy_version": "1.17.1"
     }
 }

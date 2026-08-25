@@ -1,5 +1,6 @@
 {
   "model_name": "Logistic Regression",
+  "selection_basis": "highest 2023-2025 held-out macro F1",
   "target_column": "vulnerability_class",
   "class_order": [
     "High",
@@ -100,6 +101,26 @@
       ]
     }
   ],
+  "hyperparameter_search_rerun": true,
+  "tuned_random_forest_parameters": {
+    "n_estimators": 600,
+    "max_depth": 8,
+    "min_samples_split": 14,
+    "min_samples_leaf": 5,
+    "max_features": "log2"
+  },
+  "tuned_xgboost_parameters": {
+    "n_estimators": 500,
+    "max_depth": 2,
+    "learning_rate": 0.14375148048694283,
+    "subsample": 0.9647749916436704,
+    "colsample_bytree": 0.9429178011056337,
+    "min_child_weight": 7,
+    "gamma": 0.6911407800788922,
+    "reg_alpha": 0.007017110749133235,
+    "reg_lambda": 0.028912644384523085
+  },
   "scikit_learn_version": "1.9.0",
-  "exported_at_utc": "2026-08-04T22:39:59.341008+00:00"
+  "xgboost_version": "3.2.0",
+  "exported_at_utc": "2026-08-25T05:15:37.430495+00:00"
 }
