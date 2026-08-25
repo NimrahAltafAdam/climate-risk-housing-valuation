@@ -1,0 +1,2 @@
+baseline_model,enhanced_model,evaluation_metric,number_of_temporal_folds,baseline_mean_macro_f1,enhanced_mean_macro_f1,mean_macro_f1_improvement,improvement_standard_deviation,t_statistic,degrees_of_freedom,p_value_two_sided,confidence_interval_95_lower,confidence_interval_95_upper,cohen_dz,all_folds_improved,statistically_significant_at_0_05
+Housing Only,Housing + Climate,Macro F1,5,0.37844146769502196,0.614212470657567,0.23577100296254513,0.07690944967690505,6.854814225850153,4,0.002371008098318666,0.14027530817706801,0.33126669774802225,3.065566116426708,True,True
