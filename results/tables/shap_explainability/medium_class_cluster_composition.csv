@@ -1,0 +1,12 @@
+medium_prediction_group,cluster_name,observations,group_total,within_group_pct
+Correctly Predicted Medium,Disaster-Loss Growth Pressure,21,38,55.26315789473685
+Correctly Predicted Medium,Socioeconomic Resilience Stress,14,38,36.84210526315789
+Correctly Predicted Medium,Lower-Stress Resilient Profile,2,38,5.263157894736842
+Correctly Predicted Medium,High-Exposure Latent Risk,1,38,2.631578947368421
+Predicted Low,Socioeconomic Resilience Stress,12,33,36.36363636363637
+Predicted Low,Lower-Stress Resilient Profile,11,33,33.33333333333333
+Predicted Low,Disaster-Loss Growth Pressure,7,33,21.21212121212121
+Predicted Low,High-Exposure Latent Risk,3,33,9.090909090909092
+Predicted High,Disaster-Loss Growth Pressure,6,8,75.0
+Predicted High,High-Exposure Latent Risk,1,8,12.5
+Predicted High,Socioeconomic Resilience Stress,1,8,12.5

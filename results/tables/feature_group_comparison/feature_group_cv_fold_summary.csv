@@ -1,0 +1,6 @@
+fold,train_years,validation_years,train_rows,validation_rows,train_low,train_medium,train_high,validation_low,validation_medium,validation_high
+Fold 1,2011-2014,2015-2016,264,133,166,76,22,52,46,35
+Fold 2,2011-2016,2017-2018,397,134,218,122,57,27,48,59
+Fold 3,2011-2018,2019-2020,531,134,245,170,116,32,53,49
+Fold 4,2011-2020,2021-2021,665,67,277,223,165,3,25,39
+Fold 5,2011-2021,2022-2022,732,67,280,248,204,1,6,60

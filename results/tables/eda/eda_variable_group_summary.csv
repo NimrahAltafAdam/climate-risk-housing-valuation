@@ -1,0 +1,8 @@
+Variable Group,Available Variables,Missing Variables,Columns Used
+Housing Market,6,0,"avg_annual_housing_price, median_annual_housing_price, annual_price_growth_pct, appreciation_from_baseline_pct, annual_price_volatility, price_growth_acceleration"
+Climate Exposure,2,0,"CFLD_RISKS, HRCN_RISKS"
+Disaster History,5,0,"disaster_count, climate_disaster_count, hurricane_disaster_count, cumulative_climate_disaster_count, recent_3yr_climate_disaster_count"
+Socioeconomic and Affordability,6,0,"SOVI_SCORE, median_household_income, poverty_rate, unemployment_rate, renter_occupied_share, price_to_income_ratio"
+Resilience,1,0,RESL_SCORE
+NFIP Insurance Loss,5,0,"nfip_claim_count, nfip_total_claim_payment, nfip_avg_claim_payment, nfip_cumulative_claim_payment, nfip_recent_3yr_claim_payment"
+Spatial Neighbor Features,6,0,"neighbor_count, neighbor_avg_housing_price, neighbor_avg_price_growth_pct, neighbor_avg_price_volatility, neighbor_high_growth_share, neighbor_high_volatility_share"

@@ -1,0 +1,29 @@
+cluster_name,feature_dimension,feature_count,mean_total_absolute_high_shap,mean_absolute_high_shap_per_feature,dimension_rank
+Disaster-Loss Growth Pressure,Climate Exposure,2,3.3634826202233943,1.6817413101116971,2.0
+Disaster-Loss Growth Pressure,Disaster History,14,7.972384721032135,0.5694560515022954,4.0
+Disaster-Loss Growth Pressure,Housing Pressure and Market Conditions,15,4.004950722963486,0.26699671486423254,7.0
+Disaster-Loss Growth Pressure,Insurance-Loss Stress,14,7.0821525208221106,0.5058680372015791,6.0
+Disaster-Loss Growth Pressure,Resilience,1,2.157266924616158,2.157266924616158,1.0
+Disaster-Loss Growth Pressure,Socioeconomic and Affordability Stress,14,7.397243656775898,0.5283745469125642,5.0
+Disaster-Loss Growth Pressure,Spatial Spillover,6,4.274448730288448,0.7124081217147414,3.0
+High-Exposure Latent Risk,Climate Exposure,2,3.4914428120234504,1.7457214060117252,1.0
+High-Exposure Latent Risk,Disaster History,14,4.78042718298056,0.3414590844986114,5.0
+High-Exposure Latent Risk,Housing Pressure and Market Conditions,15,4.046594180418721,0.269772945361248,7.0
+High-Exposure Latent Risk,Insurance-Loss Stress,14,4.141226731972695,0.29580190942662116,6.0
+High-Exposure Latent Risk,Resilience,1,1.5193539729977088,1.5193539729977088,2.0
+High-Exposure Latent Risk,Socioeconomic and Affordability Stress,14,8.35982651078606,0.5971304650561472,4.0
+High-Exposure Latent Risk,Spatial Spillover,6,4.652873340351454,0.7754788900585758,3.0
+Lower-Stress Resilient Profile,Climate Exposure,2,3.0076503296171535,1.5038251648085768,2.0
+Lower-Stress Resilient Profile,Disaster History,14,5.712132352819152,0.4080094537727967,5.0
+Lower-Stress Resilient Profile,Housing Pressure and Market Conditions,15,3.6829007317209,0.24552671544806,6.0
+Lower-Stress Resilient Profile,Insurance-Loss Stress,14,2.5200277283258914,0.18000198059470654,7.0
+Lower-Stress Resilient Profile,Resilience,1,3.593678605808317,3.593678605808317,1.0
+Lower-Stress Resilient Profile,Socioeconomic and Affordability Stress,14,8.030561892879854,0.5736115637771325,4.0
+Lower-Stress Resilient Profile,Spatial Spillover,6,4.5969763485526105,0.7661627247587682,3.0
+Socioeconomic Resilience Stress,Climate Exposure,2,3.3281035611937866,1.6640517805968933,2.0
+Socioeconomic Resilience Stress,Disaster History,14,5.8905851790106025,0.420756084215043,4.0
+Socioeconomic Resilience Stress,Housing Pressure and Market Conditions,15,2.7207412863799854,0.18138275242533236,7.0
+Socioeconomic Resilience Stress,Insurance-Loss Stress,14,2.904650223810996,0.20747501598649973,6.0
+Socioeconomic Resilience Stress,Resilience,1,2.2746340654092196,2.2746340654092196,1.0
+Socioeconomic Resilience Stress,Socioeconomic and Affordability Stress,14,3.9556271877412965,0.28254479912437835,5.0
+Socioeconomic Resilience Stress,Spatial Spillover,6,4.152496735249779,0.6920827892082964,3.0

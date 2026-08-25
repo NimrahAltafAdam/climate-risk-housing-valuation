@@ -1,8 +1,8 @@
 Metric,Value
-Observations,1000
-Variables,31
-Counties,67
-Start Year,2011
-End Year,2025
-Duplicate County-Year Rows,0
-Complete County-Year Rows,999
+County-year rows,1000.0
+Variables,31.0
+Florida counties,67.0
+Start year,2011.0
+End year,2025.0
+Duplicate county-years,0.0
+Complete county-years,999.0

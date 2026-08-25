@@ -1,0 +1,68 @@
+STCOFIPS,RegionName,avg_coastal_flood_risk,avg_hurricane_risk,cumulative_climate_disaster_count,total_climate_disaster_count,hurricane_disaster_count,recent_3yr_climate_disaster_count,climate_exposure_score,coastal_flood_exposure_group
+12001,Alachua County,0.0,96.70421360033376,19,19,13,12,48.35210680016688,Lower coastal-flood exposure
+12003,Baker County,0.0,74.46808510638297,19,19,13,11,37.234042553191486,Lower coastal-flood exposure
+12005,Bay County,77.2,98.66499791405924,21,21,13,10,87.93249895702962,Higher coastal-flood exposure
+12007,Bradford County,0.0,87.56779307467667,19,19,12,12,43.783896537338336,Lower coastal-flood exposure
+12009,Brevard County,82.0,99.70796829370046,17,17,13,10,90.85398414685022,Higher coastal-flood exposure
+12011,Broward County,97.0,99.8331247392574,14,14,12,7,98.4165623696287,Higher coastal-flood exposure
+12013,Calhoun County,21.2,89.11138923654566,19,19,13,10,55.15569461827283,Lower coastal-flood exposure
+12015,Charlotte County,90.4,98.9987484355444,17,17,10,12,94.6993742177722,Higher coastal-flood exposure
+12017,Citrus County,92.60000000000004,98.7901543596162,22,22,15,12,95.69507717980812,Higher coastal-flood exposure
+12019,Clay County,56.99999999999999,89.77889027951606,19,19,13,11,73.38944513975802,Lower coastal-flood exposure
+12021,Collier County,95.2,99.74968710888608,21,21,11,12,97.47484355444304,Higher coastal-flood exposure
+12023,Columbia County,0.0,90.44639132248643,19,19,12,12,45.22319566124322,Lower coastal-flood exposure
+12027,De Soto County,33.4,96.24530663329162,15,15,10,11,64.82265331664581,Lower coastal-flood exposure
+12029,Dixie County,73.59999999999998,87.10888610763455,21,21,14,12,80.35444305381726,Higher coastal-flood exposure
+12031,Duval County,91.0,97.6637463496037,20,20,14,11,94.33187317480184,Higher coastal-flood exposure
+12033,Escambia County,76.79999999999998,98.83187317480184,16,16,12,6,87.81593658740091,Higher coastal-flood exposure
+12035,Flagler County,67.60000000000001,94.95202336253652,17,17,13,10,81.27601168126827,Higher coastal-flood exposure
+12037,Franklin County,77.4,90.48811013767208,21,21,15,9,83.94405506883604,Higher coastal-flood exposure
+12039,Gadsden County,0.0,91.44764288694202,19,19,14,10,45.72382144347101,Lower coastal-flood exposure
+12041,Gilchrist County,25.8,84.27200667501043,21,21,14,12,55.036003337505214,Lower coastal-flood exposure
+12043,Glades County,0.0,87.6095118898623,13,13,10,8,43.80475594493115,Lower coastal-flood exposure
+12045,Gulf County,61.6,93.4084272006675,19,19,14,9,77.50421360033376,Higher coastal-flood exposure
+12047,Hamilton County,0.0,90.0709219858156,19,19,12,12,45.0354609929078,Lower coastal-flood exposure
+12049,Hardee County,0.0,91.36420525657071,14,14,9,10,45.68210262828536,Lower coastal-flood exposure
+12051,Hendry County,25.6,94.24280350438048,12,12,9,8,59.921401752190235,Lower coastal-flood exposure
+12053,Hernando County,74.2,96.078431372549,21,21,14,12,85.1392156862745,Higher coastal-flood exposure
+12055,Highlands County,0.0,95.70296203587817,13,13,9,8,47.851481017939086,Lower coastal-flood exposure
+12057,Hillsborough County,92.4,99.29078014184395,20,20,13,12,95.84539007092198,Higher coastal-flood exposure
+12059,Holmes County,0.0,91.48936170212764,17,17,12,7,45.74468085106382,Lower coastal-flood exposure
+12061,Indian River County,69.0,99.16562369628704,13,13,12,6,84.08281184814352,Higher coastal-flood exposure
+12063,Jackson County,0.0,94.32624113475178,16,16,12,7,47.16312056737589,Lower coastal-flood exposure
+12065,Jefferson County,39.4,86.7334167709637,21,21,13,11,63.066708385481846,Lower coastal-flood exposure
+12067,Lafayette County,22.0,84.39716312056738,20,20,13,12,53.19858156028369,Lower coastal-flood exposure
+12069,Lake County,35.4,94.99374217772215,16,16,11,10,65.19687108886107,Lower coastal-flood exposure
+12071,Lee County,97.4,99.9165623696287,18,18,10,12,98.65828118481436,Higher coastal-flood exposure
+12073,Leon County,23.4,97.12140175219024,17,17,12,10,60.260700876095115,Lower coastal-flood exposure
+12075,Levy County,72.59999999999998,91.6145181476846,21,21,14,12,82.1072590738423,Higher coastal-flood exposure
+12077,Liberty County,28.6,82.06090947017105,20,20,14,10,55.330454735085524,Lower coastal-flood exposure
+12079,Madison County,0.0,90.5715477680434,20,20,13,12,45.2857738840217,Lower coastal-flood exposure
+12081,Manatee County,98.0,99.33249895702964,21,21,14,12,98.66624947851483,Higher coastal-flood exposure
+12083,Marion County,24.6,97.83062161034628,19,19,13,12,61.21531080517315,Lower coastal-flood exposure
+12085,Martin County,73.0,98.7067167292449,14,14,13,6,85.85335836462245,Higher coastal-flood exposure
+12086,Miami-Dade County,99.6,99.95828118481434,12,12,10,6,99.77914059240717,Higher coastal-flood exposure
+12087,Monroe County,98.8,97.99749687108884,14,14,10,8,98.39874843554442,Higher coastal-flood exposure
+12089,Nassau County,75.79999999999998,88.36045056320401,20,20,14,11,82.080225281602,Higher coastal-flood exposure
+12091,Okaloosa County,62.6,98.08093450146016,16,16,12,6,80.34046725073009,Higher coastal-flood exposure
+12093,Okeechobee County,0.0,93.53358364622444,13,13,10,8,46.76679182311222,Lower coastal-flood exposure
+12095,Orange County,0.0,98.0392156862745,16,16,12,10,49.01960784313725,Lower coastal-flood exposure
+12097,Osceola County,0.0,94.15936587400918,17,17,13,10,47.07968293700459,Lower coastal-flood exposure
+12099,Palm Beach County,93.4,99.87484355444305,14,14,13,6,96.63742177722153,Higher coastal-flood exposure
+12101,Pasco County,90.8,98.1226533166458,20,20,13,12,94.46132665832289,Higher coastal-flood exposure
+12103,Pinellas County,99.2,98.8735919899875,20,20,13,12,99.03679599499375,Higher coastal-flood exposure
+12105,Polk County,0.0,98.49812265331664,16,16,10,10,49.24906132665832,Lower coastal-flood exposure
+12107,Putnam County,60.4,93.45014601585316,20,20,14,11,76.92507300792658,Lower coastal-flood exposure
+12109,Saint Johns County,89.0,93.70045890696704,17,17,13,10,91.35022945348352,Higher coastal-flood exposure
+12111,Saint Lucie County,65.2,99.20734251147267,14,14,13,6,82.20367125573634,Higher coastal-flood exposure
+12113,Santa Rosa County,70.8,97.24655819774716,19,19,12,7,84.02327909887359,Higher coastal-flood exposure
+12115,Sarasota County,93.60000000000004,99.54109303295786,19,19,12,12,96.57054651647894,Higher coastal-flood exposure
+12117,Seminole County,0.0,94.65999165623698,17,17,13,10,47.32999582811849,Lower coastal-flood exposure
+12119,Sumter County,0.0,95.82811848143514,18,18,12,12,47.91405924071757,Lower coastal-flood exposure
+12121,Suwannee County,0.0,93.36670838548184,20,20,13,12,46.68335419274092,Lower coastal-flood exposure
+12123,Taylor County,76.59999999999998,92.69920734251149,22,22,14,13,84.64960367125573,Higher coastal-flood exposure
+12125,Union County,0.0,81.47684605757196,18,18,12,11,40.73842302878598,Lower coastal-flood exposure
+12127,Volusia County,85.0,98.45640383813101,17,17,13,10,91.7282019190655,Higher coastal-flood exposure
+12129,Wakulla County,61.2,84.48060075093868,20,20,12,11,72.84030037546934,Higher coastal-flood exposure
+12131,Walton County,62.2,97.37171464330412,17,17,11,6,79.78585732165206,Higher coastal-flood exposure
+12133,Washington County,22.4,92.49061326658324,17,17,12,7,57.44530663329162,Lower coastal-flood exposure

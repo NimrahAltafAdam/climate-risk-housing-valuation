@@ -1,0 +1,68 @@
+STCOFIPS,geometry_county_name,county_name,latest_year,latest_vulnerability_score,latest_vulnerability_class,dominant_recent_cluster_name,dominant_profile_persistence_pct,recent_avg_annual_growth_pct,recent_avg_vulnerability_score,risk_cluster_share_pct,hidden_risk_category,scenarios_selected,selection_rate_pct
+12001,Alachua,Alachua County,2025,0.3564096974220504,Low,Lower-Stress Resilient Profile,60.0,7.1838,0.4546,40.0,Other County,0,0.0
+12003,Baker,Baker County,2025,0.2720111585961632,Low,Lower-Stress Resilient Profile,100.0,7.3224,0.3296,0.0,Other County,0,0.0
+12005,Bay,Bay County,2025,0.50205732590312,Medium,Disaster-Loss Growth Pressure,100.0,7.7023,0.5709,100.0,Other County,0,0.0
+12007,Bradford,Bradford County,2025,0.355458375916904,Low,Socioeconomic Resilience Stress,80.0,9.4719,0.4438,20.0,Other County,0,0.0
+12009,Brevard,Brevard County,2025,0.4965448122666481,Medium,Disaster-Loss Growth Pressure,60.0,8.2463,0.5282,60.0,Other County,0,0.0
+12011,Broward,Broward County,2025,0.5567820126617345,High,Disaster-Loss Growth Pressure,60.0,8.6615,0.6195,100.0,Other County,0,0.0
+12013,Calhoun,Calhoun County,2025,0.4109903623715635,Low,Socioeconomic Resilience Stress,100.0,7.9343,0.4737,0.0,Other County,0,0.0
+12015,Charlotte,Charlotte County,2025,0.5267577396120399,High,Disaster-Loss Growth Pressure,60.0,7.6553,0.6237,100.0,Other County,0,0.0
+12017,Citrus,Citrus County,2025,0.544868511747463,High,Disaster-Loss Growth Pressure,60.0,9.7254,0.63,100.0,Hidden Risk,5,62.5
+12019,Clay,Clay County,2025,0.4119272368917747,Low,Lower-Stress Resilient Profile,60.0,8.0495,0.4724,40.0,Other County,0,0.0
+12021,Collier,Collier County,2025,0.5529500727397143,High,Disaster-Loss Growth Pressure,80.0,10.5318,0.6297,100.0,Priority Hidden Risk,8,100.0
+12023,Columbia,Columbia County,2025,0.3914347591980113,Low,Socioeconomic Resilience Stress,60.0,9.5645,0.4839,40.0,Other County,0,0.0
+12027,DeSoto,De Soto County,2025,0.5137726743070177,Medium,Socioeconomic Resilience Stress,60.0,9.5773,0.5948,40.0,Other County,0,0.0
+12029,Dixie,Dixie County,2025,0.4728176903273859,Medium,Disaster-Loss Growth Pressure,60.0,9.8193,0.5695,80.0,Priority Hidden Risk,7,87.5
+12031,Duval,Duval County,2025,0.4586072722495246,Medium,Disaster-Loss Growth Pressure,60.0,7.8179,0.5441,80.0,Other County,0,0.0
+12033,Escambia,Escambia County,2025,0.4434752696799069,Medium,High-Exposure Latent Risk,60.0,7.7155,0.535,100.0,Other County,0,0.0
+12035,Flagler,Flagler County,2025,0.4459968489648652,Medium,Disaster-Loss Growth Pressure,60.0,7.391,0.5269,80.0,Other County,0,0.0
+12037,Franklin,Franklin County,2025,0.4445560686356837,Medium,Disaster-Loss Growth Pressure,80.0,7.6831,0.5366,80.0,Other County,0,0.0
+12039,Gadsden,Gadsden County,2025,0.4032094850391825,Low,Socioeconomic Resilience Stress,100.0,9.2633,0.4632,0.0,Other County,0,0.0
+12041,Gilchrist,Gilchrist County,2025,0.3980358345902599,Low,Socioeconomic Resilience Stress,80.0,10.7497,0.4939,20.0,Other County,0,0.0
+12043,Glades,Glades County,2025,0.4359308404123886,Low,Socioeconomic Resilience Stress,100.0,12.083,0.4953,0.0,Other County,0,0.0
+12045,Gulf,Gulf County,2025,0.4205136802363778,Low,Disaster-Loss Growth Pressure,80.0,9.4014,0.5015,80.0,Hidden Risk,2,25.0
+12047,Hamilton,Hamilton County,2025,0.4035103193905848,Low,Socioeconomic Resilience Stress,100.0,11.6212,0.4876,0.0,Other County,0,0.0
+12049,Hardee,Hardee County,2025,0.4466457517695035,Medium,Socioeconomic Resilience Stress,80.0,11.2019,0.5176,20.0,Other County,0,0.0
+12051,Hendry,Hendry County,2025,0.4731972552963689,Medium,Socioeconomic Resilience Stress,80.0,11.8097,0.5538,20.0,Other County,0,0.0
+12053,Hernando,Hernando County,2025,0.5153757819542794,Medium,Disaster-Loss Growth Pressure,80.0,10.824,0.5955,100.0,Priority Hidden Risk,8,100.0
+12055,Highlands,Highlands County,2025,0.4450628007597467,Medium,Socioeconomic Resilience Stress,80.0,10.2847,0.5227,20.0,Other County,0,0.0
+12057,Hillsborough,Hillsborough County,2025,0.5644071082897519,High,Disaster-Loss Growth Pressure,80.0,9.3172,0.62,100.0,Hidden Risk,5,62.5
+12059,Holmes,Holmes County,2025,0.3810906716893748,Low,Socioeconomic Resilience Stress,100.0,7.3654,0.4583,0.0,Other County,0,0.0
+12061,Indian River,Indian River County,2025,0.4585132434900291,Medium,Lower-Stress Resilient Profile,60.0,8.6157,0.5042,40.0,Other County,0,0.0
+12063,Jackson,Jackson County,2025,0.3925747258754908,Low,Socioeconomic Resilience Stress,100.0,7.7502,0.4579,0.0,Other County,0,0.0
+12065,Jefferson,Jefferson County,2025,0.3860006655064817,Low,Socioeconomic Resilience Stress,100.0,9.0738,0.4535,0.0,Other County,0,0.0
+12067,Lafayette,Lafayette County,2025,0.4007567882415242,Low,Socioeconomic Resilience Stress,80.0,10.3832,0.4728,20.0,Other County,0,0.0
+12069,Lake,Lake County,2025,0.458473038550966,Medium,Disaster-Loss Growth Pressure,60.0,8.2986,0.4939,60.0,Other County,0,0.0
+12071,Lee,Lee County,2025,0.584466816779094,High,Disaster-Loss Growth Pressure,80.0,8.7375,0.6705,100.0,Other County,0,0.0
+12073,Leon,Leon County,2025,0.3843251248825247,Low,Lower-Stress Resilient Profile,60.0,5.9387,0.4515,40.0,Other County,0,0.0
+12075,Levy,Levy County,2025,0.4871346754529638,Medium,Disaster-Loss Growth Pressure,60.0,9.7679,0.5853,80.0,Priority Hidden Risk,7,87.5
+12077,Liberty,Liberty County,2025,0.3563263367026792,Low,Socioeconomic Resilience Stress,100.0,9.1883,0.4233,0.0,Other County,0,0.0
+12079,Madison,Madison County,2025,0.401290103424363,Low,Socioeconomic Resilience Stress,80.0,10.1944,0.4801,20.0,Other County,0,0.0
+12081,Manatee,Manatee County,2025,0.5645530144191513,High,Disaster-Loss Growth Pressure,100.0,8.9595,0.6318,100.0,Hidden Risk,5,62.5
+12083,Marion,Marion County,2025,0.467986306432396,Medium,Disaster-Loss Growth Pressure,60.0,9.7464,0.5391,80.0,Hidden Risk,4,50.0
+12085,Martin,Martin County,2025,0.4705154741460657,Medium,High-Exposure Latent Risk,60.0,9.1214,0.542,100.0,Hidden Risk,4,50.0
+12086,Miami-Dade,Miami-Dade County,2025,0.58807813257093,High,High-Exposure Latent Risk,60.0,10.0276,0.6483,100.0,Priority Hidden Risk,8,100.0
+12087,Monroe,Monroe County,2025,0.5719725311093937,High,Disaster-Loss Growth Pressure,100.0,10.046,0.6352,100.0,Priority Hidden Risk,8,100.0
+12089,Nassau,Nassau County,2025,0.3947128785356039,Low,Lower-Stress Resilient Profile,80.0,8.8798,0.4454,20.0,Other County,0,0.0
+12091,Okaloosa,Okaloosa County,2025,0.4219691806033302,Low,Disaster-Loss Growth Pressure,60.0,6.6283,0.5018,60.0,Other County,0,0.0
+12093,Okeechobee,Okeechobee County,2025,0.4478253509702278,Medium,Socioeconomic Resilience Stress,100.0,11.1197,0.502,0.0,Other County,0,0.0
+12095,Orange,Orange County,2025,0.4867802946347703,Medium,Disaster-Loss Growth Pressure,80.0,8.3167,0.5251,100.0,Other County,0,0.0
+12097,Osceola,Osceola County,2025,0.4314920093896759,Low,Disaster-Loss Growth Pressure,60.0,8.3786,0.5133,80.0,Other County,0,0.0
+12099,Palm Beach,Palm Beach County,2025,0.5484714583698187,High,High-Exposure Latent Risk,60.0,9.3391,0.6108,100.0,Hidden Risk,5,62.5
+12101,Pasco,Pasco County,2025,0.5367748013368572,High,Disaster-Loss Growth Pressure,80.0,9.1633,0.6183,100.0,Hidden Risk,5,62.5
+12103,Pinellas,Pinellas County,2025,0.6048599233355787,High,Disaster-Loss Growth Pressure,80.0,7.9772,0.6526,100.0,Other County,0,0.0
+12105,Polk,Polk County,2025,0.4779022377489754,Medium,Disaster-Loss Growth Pressure,80.0,8.5405,0.5315,100.0,Other County,0,0.0
+12107,Putnam,Putnam County,2025,0.5217472887001653,High,Socioeconomic Resilience Stress,40.0,8.0245,0.5723,60.0,Other County,0,0.0
+12109,St. Johns,Saint Johns County,2025,0.3783513811707421,Low,Lower-Stress Resilient Profile,100.0,8.9082,0.4408,0.0,Other County,0,0.0
+12111,St. Lucie,Saint Lucie County,2025,0.4495120472178907,Medium,Disaster-Loss Growth Pressure,40.0,10.1154,0.5301,60.0,Other County,0,0.0
+12113,Santa Rosa,Santa Rosa County,2025,0.4170359547503975,Low,Lower-Stress Resilient Profile,80.0,8.0824,0.474,20.0,Other County,0,0.0
+12115,Sarasota,Sarasota County,2025,0.5842394229568272,High,Disaster-Loss Growth Pressure,80.0,8.5881,0.6428,100.0,Other County,0,0.0
+12117,Seminole,Seminole County,2025,0.4220047422717216,Low,Lower-Stress Resilient Profile,60.0,8.1225,0.4666,40.0,Other County,0,0.0
+12119,Sumter,Sumter County,2025,0.4026547660366891,Low,Lower-Stress Resilient Profile,60.0,6.513,0.4434,40.0,Other County,0,0.0
+12121,Suwannee,Suwannee County,2025,0.4287793140526243,Low,Socioeconomic Resilience Stress,80.0,9.5875,0.5084,20.0,Other County,0,0.0
+12123,Taylor,Taylor County,2025,0.4684480641490811,Medium,Disaster-Loss Growth Pressure,60.0,7.9212,0.5793,100.0,Other County,0,0.0
+12125,Union,Union County,2025,0.3416903572203423,Low,Socioeconomic Resilience Stress,80.0,10.4794,0.4189,20.0,Other County,0,0.0
+12127,Volusia,Volusia County,2025,0.5166375267757264,Medium,Disaster-Loss Growth Pressure,80.0,8.1934,0.5696,100.0,Other County,0,0.0
+12129,Wakulla,Wakulla County,2025,0.3556185155044857,Low,Lower-Stress Resilient Profile,100.0,8.2063,0.4216,0.0,Other County,0,0.0
+12131,Walton,Walton County,2025,0.4639437098259225,Medium,Disaster-Loss Growth Pressure,100.0,9.2837,0.5185,100.0,Hidden Risk,4,50.0
+12133,Washington,Washington County,2025,0.4127961484850922,Low,Socioeconomic Resilience Stress,60.0,8.5429,0.4964,40.0,Other County,0,0.0

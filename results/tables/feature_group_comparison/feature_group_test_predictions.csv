@@ -1,0 +1,1006 @@
+feature_group,Year,STCOFIPS,RegionName,actual_vulnerability_class,predicted_vulnerability_class
+Housing Only,2023,12001,Alachua County,Low,High
+Housing Only,2023,12003,Baker County,Low,High
+Housing Only,2023,12005,Bay County,High,High
+Housing Only,2023,12007,Bradford County,Low,High
+Housing Only,2023,12009,Brevard County,Medium,High
+Housing Only,2023,12011,Broward County,High,High
+Housing Only,2023,12013,Calhoun County,Medium,Medium
+Housing Only,2023,12015,Charlotte County,High,High
+Housing Only,2023,12017,Citrus County,High,High
+Housing Only,2023,12019,Clay County,Low,High
+Housing Only,2023,12021,Collier County,High,High
+Housing Only,2023,12023,Columbia County,Medium,High
+Housing Only,2023,12027,De Soto County,High,High
+Housing Only,2023,12029,Dixie County,High,High
+Housing Only,2023,12031,Duval County,Medium,High
+Housing Only,2023,12033,Escambia County,Medium,High
+Housing Only,2023,12035,Flagler County,Medium,High
+Housing Only,2023,12037,Franklin County,High,High
+Housing Only,2023,12039,Gadsden County,Low,High
+Housing Only,2023,12041,Gilchrist County,Medium,High
+Housing Only,2023,12043,Glades County,Medium,High
+Housing Only,2023,12045,Gulf County,Medium,High
+Housing Only,2023,12047,Hamilton County,Medium,High
+Housing Only,2023,12049,Hardee County,Medium,High
+Housing Only,2023,12051,Hendry County,Medium,High
+Housing Only,2023,12053,Hernando County,High,High
+Housing Only,2023,12055,Highlands County,Medium,High
+Housing Only,2023,12057,Hillsborough County,High,High
+Housing Only,2023,12059,Holmes County,Low,Medium
+Housing Only,2023,12061,Indian River County,Medium,High
+Housing Only,2023,12063,Jackson County,Low,Low
+Housing Only,2023,12065,Jefferson County,Low,High
+Housing Only,2023,12067,Lafayette County,Low,High
+Housing Only,2023,12069,Lake County,Medium,High
+Housing Only,2023,12071,Lee County,High,High
+Housing Only,2023,12073,Leon County,Medium,High
+Housing Only,2023,12075,Levy County,High,High
+Housing Only,2023,12077,Liberty County,Low,High
+Housing Only,2023,12079,Madison County,Low,High
+Housing Only,2023,12081,Manatee County,High,High
+Housing Only,2023,12083,Marion County,Medium,High
+Housing Only,2023,12085,Martin County,Medium,High
+Housing Only,2023,12086,Miami-Dade County,High,High
+Housing Only,2023,12087,Monroe County,High,High
+Housing Only,2023,12089,Nassau County,Low,High
+Housing Only,2023,12091,Okaloosa County,Medium,High
+Housing Only,2023,12093,Okeechobee County,Medium,High
+Housing Only,2023,12095,Orange County,Medium,High
+Housing Only,2023,12097,Osceola County,Medium,High
+Housing Only,2023,12099,Palm Beach County,High,High
+Housing Only,2023,12101,Pasco County,High,High
+Housing Only,2023,12103,Pinellas County,High,High
+Housing Only,2023,12105,Polk County,Medium,High
+Housing Only,2023,12107,Putnam County,Medium,High
+Housing Only,2023,12109,Saint Johns County,Low,High
+Housing Only,2023,12111,Saint Lucie County,Medium,High
+Housing Only,2023,12113,Santa Rosa County,Low,High
+Housing Only,2023,12115,Sarasota County,High,High
+Housing Only,2023,12117,Seminole County,Low,High
+Housing Only,2023,12119,Sumter County,Low,High
+Housing Only,2023,12121,Suwannee County,Medium,High
+Housing Only,2023,12123,Taylor County,High,Medium
+Housing Only,2023,12125,Union County,Low,High
+Housing Only,2023,12127,Volusia County,Medium,High
+Housing Only,2023,12129,Wakulla County,Low,High
+Housing Only,2023,12131,Walton County,Low,High
+Housing Only,2023,12133,Washington County,Low,Medium
+Housing Only,2024,12001,Alachua County,Medium,Medium
+Housing Only,2024,12003,Baker County,Low,Medium
+Housing Only,2024,12005,Bay County,High,High
+Housing Only,2024,12007,Bradford County,Medium,Medium
+Housing Only,2024,12009,Brevard County,Medium,High
+Housing Only,2024,12011,Broward County,High,High
+Housing Only,2024,12013,Calhoun County,Medium,Medium
+Housing Only,2024,12015,Charlotte County,High,High
+Housing Only,2024,12017,Citrus County,High,Medium
+Housing Only,2024,12019,Clay County,Medium,High
+Housing Only,2024,12021,Collier County,High,High
+Housing Only,2024,12023,Columbia County,High,High
+Housing Only,2024,12027,De Soto County,High,Medium
+Housing Only,2024,12029,Dixie County,High,Medium
+Housing Only,2024,12031,Duval County,High,Medium
+Housing Only,2024,12033,Escambia County,Medium,Medium
+Housing Only,2024,12035,Flagler County,High,High
+Housing Only,2024,12037,Franklin County,High,High
+Housing Only,2024,12039,Gadsden County,Medium,Medium
+Housing Only,2024,12041,Gilchrist County,High,High
+Housing Only,2024,12043,Glades County,Medium,High
+Housing Only,2024,12045,Gulf County,Medium,High
+Housing Only,2024,12047,Hamilton County,High,Medium
+Housing Only,2024,12049,Hardee County,High,Medium
+Housing Only,2024,12051,Hendry County,High,High
+Housing Only,2024,12053,Hernando County,High,High
+Housing Only,2024,12055,Highlands County,Medium,Medium
+Housing Only,2024,12057,Hillsborough County,High,High
+Housing Only,2024,12059,Holmes County,Low,Medium
+Housing Only,2024,12061,Indian River County,Medium,High
+Housing Only,2024,12063,Jackson County,Medium,Medium
+Housing Only,2024,12065,Jefferson County,Medium,High
+Housing Only,2024,12067,Lafayette County,High,Medium
+Housing Only,2024,12069,Lake County,Medium,High
+Housing Only,2024,12071,Lee County,High,High
+Housing Only,2024,12073,Leon County,Medium,Low
+Housing Only,2024,12075,Levy County,High,High
+Housing Only,2024,12077,Liberty County,Low,Medium
+Housing Only,2024,12079,Madison County,High,Medium
+Housing Only,2024,12081,Manatee County,High,High
+Housing Only,2024,12083,Marion County,High,Medium
+Housing Only,2024,12085,Martin County,Medium,High
+Housing Only,2024,12086,Miami-Dade County,High,High
+Housing Only,2024,12087,Monroe County,High,High
+Housing Only,2024,12089,Nassau County,Medium,High
+Housing Only,2024,12091,Okaloosa County,Medium,High
+Housing Only,2024,12093,Okeechobee County,Medium,High
+Housing Only,2024,12095,Orange County,Medium,High
+Housing Only,2024,12097,Osceola County,Medium,High
+Housing Only,2024,12099,Palm Beach County,High,High
+Housing Only,2024,12101,Pasco County,High,High
+Housing Only,2024,12103,Pinellas County,High,High
+Housing Only,2024,12105,Polk County,High,High
+Housing Only,2024,12107,Putnam County,High,Medium
+Housing Only,2024,12109,Saint Johns County,Low,High
+Housing Only,2024,12111,Saint Lucie County,High,High
+Housing Only,2024,12113,Santa Rosa County,Medium,High
+Housing Only,2024,12115,Sarasota County,High,High
+Housing Only,2024,12117,Seminole County,Medium,High
+Housing Only,2024,12119,Sumter County,Medium,High
+Housing Only,2024,12121,Suwannee County,High,Medium
+Housing Only,2024,12123,Taylor County,High,Medium
+Housing Only,2024,12125,Union County,Medium,High
+Housing Only,2024,12127,Volusia County,High,High
+Housing Only,2024,12129,Wakulla County,Medium,High
+Housing Only,2024,12131,Walton County,Medium,High
+Housing Only,2024,12133,Washington County,Medium,Medium
+Housing Only,2025,12001,Alachua County,Low,Medium
+Housing Only,2025,12003,Baker County,Low,Medium
+Housing Only,2025,12005,Bay County,Medium,Medium
+Housing Only,2025,12007,Bradford County,Low,Medium
+Housing Only,2025,12009,Brevard County,Medium,High
+Housing Only,2025,12011,Broward County,High,High
+Housing Only,2025,12013,Calhoun County,Low,Medium
+Housing Only,2025,12015,Charlotte County,High,Medium
+Housing Only,2025,12017,Citrus County,High,Medium
+Housing Only,2025,12019,Clay County,Low,Medium
+Housing Only,2025,12021,Collier County,High,High
+Housing Only,2025,12023,Columbia County,Low,Medium
+Housing Only,2025,12027,De Soto County,Medium,Medium
+Housing Only,2025,12029,Dixie County,Medium,Medium
+Housing Only,2025,12031,Duval County,Medium,Medium
+Housing Only,2025,12033,Escambia County,Medium,Medium
+Housing Only,2025,12035,Flagler County,Medium,Medium
+Housing Only,2025,12037,Franklin County,Medium,High
+Housing Only,2025,12039,Gadsden County,Low,Medium
+Housing Only,2025,12041,Gilchrist County,Low,High
+Housing Only,2025,12043,Glades County,Low,Medium
+Housing Only,2025,12045,Gulf County,Low,High
+Housing Only,2025,12047,Hamilton County,Low,Medium
+Housing Only,2025,12049,Hardee County,Medium,Medium
+Housing Only,2025,12051,Hendry County,Medium,High
+Housing Only,2025,12053,Hernando County,Medium,High
+Housing Only,2025,12055,Highlands County,Medium,Medium
+Housing Only,2025,12057,Hillsborough County,High,High
+Housing Only,2025,12059,Holmes County,Low,Medium
+Housing Only,2025,12061,Indian River County,Medium,High
+Housing Only,2025,12063,Jackson County,Low,Medium
+Housing Only,2025,12065,Jefferson County,Low,Medium
+Housing Only,2025,12067,Lafayette County,Low,Medium
+Housing Only,2025,12069,Lake County,Medium,High
+Housing Only,2025,12071,Lee County,High,Medium
+Housing Only,2025,12073,Leon County,Low,Low
+Housing Only,2025,12075,Levy County,Medium,High
+Housing Only,2025,12077,Liberty County,Low,Medium
+Housing Only,2025,12079,Madison County,Low,Medium
+Housing Only,2025,12081,Manatee County,High,High
+Housing Only,2025,12083,Marion County,Medium,Medium
+Housing Only,2025,12085,Martin County,Medium,High
+Housing Only,2025,12086,Miami-Dade County,High,High
+Housing Only,2025,12087,Monroe County,High,High
+Housing Only,2025,12089,Nassau County,Low,High
+Housing Only,2025,12091,Okaloosa County,Low,Medium
+Housing Only,2025,12093,Okeechobee County,Medium,High
+Housing Only,2025,12095,Orange County,Medium,High
+Housing Only,2025,12097,Osceola County,Low,High
+Housing Only,2025,12099,Palm Beach County,High,High
+Housing Only,2025,12101,Pasco County,High,High
+Housing Only,2025,12103,Pinellas County,High,High
+Housing Only,2025,12105,Polk County,Medium,Medium
+Housing Only,2025,12107,Putnam County,High,Medium
+Housing Only,2025,12109,Saint Johns County,Low,High
+Housing Only,2025,12111,Saint Lucie County,Medium,High
+Housing Only,2025,12113,Santa Rosa County,Low,Medium
+Housing Only,2025,12115,Sarasota County,High,Medium
+Housing Only,2025,12117,Seminole County,Low,High
+Housing Only,2025,12119,Sumter County,Low,Medium
+Housing Only,2025,12121,Suwannee County,Low,Medium
+Housing Only,2025,12123,Taylor County,Medium,Medium
+Housing Only,2025,12125,Union County,Low,Medium
+Housing Only,2025,12127,Volusia County,Medium,High
+Housing Only,2025,12129,Wakulla County,Low,Medium
+Housing Only,2025,12131,Walton County,Medium,High
+Housing Only,2025,12133,Washington County,Low,Medium
+Housing + Climate,2023,12001,Alachua County,Low,Medium
+Housing + Climate,2023,12003,Baker County,Low,Low
+Housing + Climate,2023,12005,Bay County,High,High
+Housing + Climate,2023,12007,Bradford County,Low,Medium
+Housing + Climate,2023,12009,Brevard County,Medium,High
+Housing + Climate,2023,12011,Broward County,High,High
+Housing + Climate,2023,12013,Calhoun County,Medium,Medium
+Housing + Climate,2023,12015,Charlotte County,High,High
+Housing + Climate,2023,12017,Citrus County,High,High
+Housing + Climate,2023,12019,Clay County,Low,Medium
+Housing + Climate,2023,12021,Collier County,High,High
+Housing + Climate,2023,12023,Columbia County,Medium,Medium
+Housing + Climate,2023,12027,De Soto County,High,High
+Housing + Climate,2023,12029,Dixie County,High,High
+Housing + Climate,2023,12031,Duval County,Medium,High
+Housing + Climate,2023,12033,Escambia County,Medium,High
+Housing + Climate,2023,12035,Flagler County,Medium,High
+Housing + Climate,2023,12037,Franklin County,High,Medium
+Housing + Climate,2023,12039,Gadsden County,Low,Medium
+Housing + Climate,2023,12041,Gilchrist County,Medium,Medium
+Housing + Climate,2023,12043,Glades County,Medium,Medium
+Housing + Climate,2023,12045,Gulf County,Medium,High
+Housing + Climate,2023,12047,Hamilton County,Medium,Medium
+Housing + Climate,2023,12049,Hardee County,Medium,Medium
+Housing + Climate,2023,12051,Hendry County,Medium,High
+Housing + Climate,2023,12053,Hernando County,High,High
+Housing + Climate,2023,12055,Highlands County,Medium,High
+Housing + Climate,2023,12057,Hillsborough County,High,High
+Housing + Climate,2023,12059,Holmes County,Low,Medium
+Housing + Climate,2023,12061,Indian River County,Medium,High
+Housing + Climate,2023,12063,Jackson County,Low,Medium
+Housing + Climate,2023,12065,Jefferson County,Low,Medium
+Housing + Climate,2023,12067,Lafayette County,Low,Low
+Housing + Climate,2023,12069,Lake County,Medium,High
+Housing + Climate,2023,12071,Lee County,High,High
+Housing + Climate,2023,12073,Leon County,Medium,High
+Housing + Climate,2023,12075,Levy County,High,High
+Housing + Climate,2023,12077,Liberty County,Low,Low
+Housing + Climate,2023,12079,Madison County,Low,Medium
+Housing + Climate,2023,12081,Manatee County,High,High
+Housing + Climate,2023,12083,Marion County,Medium,High
+Housing + Climate,2023,12085,Martin County,Medium,High
+Housing + Climate,2023,12086,Miami-Dade County,High,High
+Housing + Climate,2023,12087,Monroe County,High,Low
+Housing + Climate,2023,12089,Nassau County,Low,Low
+Housing + Climate,2023,12091,Okaloosa County,Medium,High
+Housing + Climate,2023,12093,Okeechobee County,Medium,High
+Housing + Climate,2023,12095,Orange County,Medium,Medium
+Housing + Climate,2023,12097,Osceola County,Medium,Medium
+Housing + Climate,2023,12099,Palm Beach County,High,High
+Housing + Climate,2023,12101,Pasco County,High,High
+Housing + Climate,2023,12103,Pinellas County,High,High
+Housing + Climate,2023,12105,Polk County,Medium,Medium
+Housing + Climate,2023,12107,Putnam County,Medium,High
+Housing + Climate,2023,12109,Saint Johns County,Low,High
+Housing + Climate,2023,12111,Saint Lucie County,Medium,High
+Housing + Climate,2023,12113,Santa Rosa County,Low,High
+Housing + Climate,2023,12115,Sarasota County,High,High
+Housing + Climate,2023,12117,Seminole County,Low,Medium
+Housing + Climate,2023,12119,Sumter County,Low,Low
+Housing + Climate,2023,12121,Suwannee County,Medium,Medium
+Housing + Climate,2023,12123,Taylor County,High,High
+Housing + Climate,2023,12125,Union County,Low,Medium
+Housing + Climate,2023,12127,Volusia County,Medium,High
+Housing + Climate,2023,12129,Wakulla County,Low,Medium
+Housing + Climate,2023,12131,Walton County,Low,Medium
+Housing + Climate,2023,12133,Washington County,Low,Medium
+Housing + Climate,2024,12001,Alachua County,Medium,Medium
+Housing + Climate,2024,12003,Baker County,Low,Low
+Housing + Climate,2024,12005,Bay County,High,High
+Housing + Climate,2024,12007,Bradford County,Medium,Medium
+Housing + Climate,2024,12009,Brevard County,Medium,High
+Housing + Climate,2024,12011,Broward County,High,High
+Housing + Climate,2024,12013,Calhoun County,Medium,Medium
+Housing + Climate,2024,12015,Charlotte County,High,High
+Housing + Climate,2024,12017,Citrus County,High,High
+Housing + Climate,2024,12019,Clay County,Medium,Medium
+Housing + Climate,2024,12021,Collier County,High,High
+Housing + Climate,2024,12023,Columbia County,High,Medium
+Housing + Climate,2024,12027,De Soto County,High,Medium
+Housing + Climate,2024,12029,Dixie County,High,Medium
+Housing + Climate,2024,12031,Duval County,High,High
+Housing + Climate,2024,12033,Escambia County,Medium,High
+Housing + Climate,2024,12035,Flagler County,High,Medium
+Housing + Climate,2024,12037,Franklin County,High,Medium
+Housing + Climate,2024,12039,Gadsden County,Medium,Medium
+Housing + Climate,2024,12041,Gilchrist County,High,Medium
+Housing + Climate,2024,12043,Glades County,Medium,Medium
+Housing + Climate,2024,12045,Gulf County,Medium,Medium
+Housing + Climate,2024,12047,Hamilton County,High,Medium
+Housing + Climate,2024,12049,Hardee County,High,Medium
+Housing + Climate,2024,12051,Hendry County,High,High
+Housing + Climate,2024,12053,Hernando County,High,High
+Housing + Climate,2024,12055,Highlands County,Medium,Medium
+Housing + Climate,2024,12057,Hillsborough County,High,High
+Housing + Climate,2024,12059,Holmes County,Low,Medium
+Housing + Climate,2024,12061,Indian River County,Medium,High
+Housing + Climate,2024,12063,Jackson County,Medium,Medium
+Housing + Climate,2024,12065,Jefferson County,Medium,Medium
+Housing + Climate,2024,12067,Lafayette County,High,Medium
+Housing + Climate,2024,12069,Lake County,Medium,Medium
+Housing + Climate,2024,12071,Lee County,High,High
+Housing + Climate,2024,12073,Leon County,Medium,Medium
+Housing + Climate,2024,12075,Levy County,High,High
+Housing + Climate,2024,12077,Liberty County,Low,Medium
+Housing + Climate,2024,12079,Madison County,High,Medium
+Housing + Climate,2024,12081,Manatee County,High,High
+Housing + Climate,2024,12083,Marion County,High,Medium
+Housing + Climate,2024,12085,Martin County,Medium,High
+Housing + Climate,2024,12086,Miami-Dade County,High,High
+Housing + Climate,2024,12087,Monroe County,High,Low
+Housing + Climate,2024,12089,Nassau County,Medium,Medium
+Housing + Climate,2024,12091,Okaloosa County,Medium,High
+Housing + Climate,2024,12093,Okeechobee County,Medium,Medium
+Housing + Climate,2024,12095,Orange County,Medium,Medium
+Housing + Climate,2024,12097,Osceola County,Medium,Medium
+Housing + Climate,2024,12099,Palm Beach County,High,High
+Housing + Climate,2024,12101,Pasco County,High,High
+Housing + Climate,2024,12103,Pinellas County,High,High
+Housing + Climate,2024,12105,Polk County,High,Medium
+Housing + Climate,2024,12107,Putnam County,High,High
+Housing + Climate,2024,12109,Saint Johns County,Low,Medium
+Housing + Climate,2024,12111,Saint Lucie County,High,High
+Housing + Climate,2024,12113,Santa Rosa County,Medium,High
+Housing + Climate,2024,12115,Sarasota County,High,High
+Housing + Climate,2024,12117,Seminole County,Medium,Medium
+Housing + Climate,2024,12119,Sumter County,Medium,Low
+Housing + Climate,2024,12121,Suwannee County,High,Medium
+Housing + Climate,2024,12123,Taylor County,High,High
+Housing + Climate,2024,12125,Union County,Medium,Medium
+Housing + Climate,2024,12127,Volusia County,High,High
+Housing + Climate,2024,12129,Wakulla County,Medium,Medium
+Housing + Climate,2024,12131,Walton County,Medium,Medium
+Housing + Climate,2024,12133,Washington County,Medium,Medium
+Housing + Climate,2025,12001,Alachua County,Low,Medium
+Housing + Climate,2025,12003,Baker County,Low,Low
+Housing + Climate,2025,12005,Bay County,Medium,High
+Housing + Climate,2025,12007,Bradford County,Low,Medium
+Housing + Climate,2025,12009,Brevard County,Medium,High
+Housing + Climate,2025,12011,Broward County,High,High
+Housing + Climate,2025,12013,Calhoun County,Low,Medium
+Housing + Climate,2025,12015,Charlotte County,High,Medium
+Housing + Climate,2025,12017,Citrus County,High,High
+Housing + Climate,2025,12019,Clay County,Low,Medium
+Housing + Climate,2025,12021,Collier County,High,Medium
+Housing + Climate,2025,12023,Columbia County,Low,Medium
+Housing + Climate,2025,12027,De Soto County,Medium,Medium
+Housing + Climate,2025,12029,Dixie County,Medium,High
+Housing + Climate,2025,12031,Duval County,Medium,High
+Housing + Climate,2025,12033,Escambia County,Medium,High
+Housing + Climate,2025,12035,Flagler County,Medium,Medium
+Housing + Climate,2025,12037,Franklin County,Medium,Medium
+Housing + Climate,2025,12039,Gadsden County,Low,Medium
+Housing + Climate,2025,12041,Gilchrist County,Low,Medium
+Housing + Climate,2025,12043,Glades County,Low,Medium
+Housing + Climate,2025,12045,Gulf County,Low,Medium
+Housing + Climate,2025,12047,Hamilton County,Low,Medium
+Housing + Climate,2025,12049,Hardee County,Medium,Medium
+Housing + Climate,2025,12051,Hendry County,Medium,Medium
+Housing + Climate,2025,12053,Hernando County,Medium,High
+Housing + Climate,2025,12055,Highlands County,Medium,Medium
+Housing + Climate,2025,12057,Hillsborough County,High,High
+Housing + Climate,2025,12059,Holmes County,Low,Medium
+Housing + Climate,2025,12061,Indian River County,Medium,High
+Housing + Climate,2025,12063,Jackson County,Low,Medium
+Housing + Climate,2025,12065,Jefferson County,Low,Medium
+Housing + Climate,2025,12067,Lafayette County,Low,Medium
+Housing + Climate,2025,12069,Lake County,Medium,Medium
+Housing + Climate,2025,12071,Lee County,High,High
+Housing + Climate,2025,12073,Leon County,Low,Medium
+Housing + Climate,2025,12075,Levy County,Medium,High
+Housing + Climate,2025,12077,Liberty County,Low,Low
+Housing + Climate,2025,12079,Madison County,Low,Medium
+Housing + Climate,2025,12081,Manatee County,High,Medium
+Housing + Climate,2025,12083,Marion County,Medium,Medium
+Housing + Climate,2025,12085,Martin County,Medium,Medium
+Housing + Climate,2025,12086,Miami-Dade County,High,High
+Housing + Climate,2025,12087,Monroe County,High,Medium
+Housing + Climate,2025,12089,Nassau County,Low,Medium
+Housing + Climate,2025,12091,Okaloosa County,Low,High
+Housing + Climate,2025,12093,Okeechobee County,Medium,Medium
+Housing + Climate,2025,12095,Orange County,Medium,Medium
+Housing + Climate,2025,12097,Osceola County,Low,Medium
+Housing + Climate,2025,12099,Palm Beach County,High,High
+Housing + Climate,2025,12101,Pasco County,High,High
+Housing + Climate,2025,12103,Pinellas County,High,High
+Housing + Climate,2025,12105,Polk County,Medium,Medium
+Housing + Climate,2025,12107,Putnam County,High,High
+Housing + Climate,2025,12109,Saint Johns County,Low,Medium
+Housing + Climate,2025,12111,Saint Lucie County,Medium,High
+Housing + Climate,2025,12113,Santa Rosa County,Low,High
+Housing + Climate,2025,12115,Sarasota County,High,Medium
+Housing + Climate,2025,12117,Seminole County,Low,Medium
+Housing + Climate,2025,12119,Sumter County,Low,Medium
+Housing + Climate,2025,12121,Suwannee County,Low,Medium
+Housing + Climate,2025,12123,Taylor County,Medium,High
+Housing + Climate,2025,12125,Union County,Low,Low
+Housing + Climate,2025,12127,Volusia County,Medium,High
+Housing + Climate,2025,12129,Wakulla County,Low,Medium
+Housing + Climate,2025,12131,Walton County,Medium,Medium
+Housing + Climate,2025,12133,Washington County,Low,Medium
+Housing + Climate + Disaster,2023,12001,Alachua County,Low,Medium
+Housing + Climate + Disaster,2023,12003,Baker County,Low,Low
+Housing + Climate + Disaster,2023,12005,Bay County,High,Medium
+Housing + Climate + Disaster,2023,12007,Bradford County,Low,Medium
+Housing + Climate + Disaster,2023,12009,Brevard County,Medium,High
+Housing + Climate + Disaster,2023,12011,Broward County,High,High
+Housing + Climate + Disaster,2023,12013,Calhoun County,Medium,Low
+Housing + Climate + Disaster,2023,12015,Charlotte County,High,High
+Housing + Climate + Disaster,2023,12017,Citrus County,High,High
+Housing + Climate + Disaster,2023,12019,Clay County,Low,Medium
+Housing + Climate + Disaster,2023,12021,Collier County,High,High
+Housing + Climate + Disaster,2023,12023,Columbia County,Medium,Medium
+Housing + Climate + Disaster,2023,12027,De Soto County,High,Medium
+Housing + Climate + Disaster,2023,12029,Dixie County,High,Medium
+Housing + Climate + Disaster,2023,12031,Duval County,Medium,High
+Housing + Climate + Disaster,2023,12033,Escambia County,Medium,Medium
+Housing + Climate + Disaster,2023,12035,Flagler County,Medium,Medium
+Housing + Climate + Disaster,2023,12037,Franklin County,High,Medium
+Housing + Climate + Disaster,2023,12039,Gadsden County,Low,Medium
+Housing + Climate + Disaster,2023,12041,Gilchrist County,Medium,Medium
+Housing + Climate + Disaster,2023,12043,Glades County,Medium,Medium
+Housing + Climate + Disaster,2023,12045,Gulf County,Medium,Medium
+Housing + Climate + Disaster,2023,12047,Hamilton County,Medium,Medium
+Housing + Climate + Disaster,2023,12049,Hardee County,Medium,Medium
+Housing + Climate + Disaster,2023,12051,Hendry County,Medium,High
+Housing + Climate + Disaster,2023,12053,Hernando County,High,High
+Housing + Climate + Disaster,2023,12055,Highlands County,Medium,Medium
+Housing + Climate + Disaster,2023,12057,Hillsborough County,High,High
+Housing + Climate + Disaster,2023,12059,Holmes County,Low,Low
+Housing + Climate + Disaster,2023,12061,Indian River County,Medium,Medium
+Housing + Climate + Disaster,2023,12063,Jackson County,Low,Low
+Housing + Climate + Disaster,2023,12065,Jefferson County,Low,Medium
+Housing + Climate + Disaster,2023,12067,Lafayette County,Low,Low
+Housing + Climate + Disaster,2023,12069,Lake County,Medium,Medium
+Housing + Climate + Disaster,2023,12071,Lee County,High,High
+Housing + Climate + Disaster,2023,12073,Leon County,Medium,Medium
+Housing + Climate + Disaster,2023,12075,Levy County,High,Medium
+Housing + Climate + Disaster,2023,12077,Liberty County,Low,Low
+Housing + Climate + Disaster,2023,12079,Madison County,Low,Low
+Housing + Climate + Disaster,2023,12081,Manatee County,High,High
+Housing + Climate + Disaster,2023,12083,Marion County,Medium,Medium
+Housing + Climate + Disaster,2023,12085,Martin County,Medium,Medium
+Housing + Climate + Disaster,2023,12086,Miami-Dade County,High,High
+Housing + Climate + Disaster,2023,12087,Monroe County,High,Low
+Housing + Climate + Disaster,2023,12089,Nassau County,Low,Low
+Housing + Climate + Disaster,2023,12091,Okaloosa County,Medium,Low
+Housing + Climate + Disaster,2023,12093,Okeechobee County,Medium,Medium
+Housing + Climate + Disaster,2023,12095,Orange County,Medium,Medium
+Housing + Climate + Disaster,2023,12097,Osceola County,Medium,Medium
+Housing + Climate + Disaster,2023,12099,Palm Beach County,High,High
+Housing + Climate + Disaster,2023,12101,Pasco County,High,High
+Housing + Climate + Disaster,2023,12103,Pinellas County,High,High
+Housing + Climate + Disaster,2023,12105,Polk County,Medium,Medium
+Housing + Climate + Disaster,2023,12107,Putnam County,Medium,Medium
+Housing + Climate + Disaster,2023,12109,Saint Johns County,Low,Medium
+Housing + Climate + Disaster,2023,12111,Saint Lucie County,Medium,Medium
+Housing + Climate + Disaster,2023,12113,Santa Rosa County,Low,Low
+Housing + Climate + Disaster,2023,12115,Sarasota County,High,High
+Housing + Climate + Disaster,2023,12117,Seminole County,Low,Medium
+Housing + Climate + Disaster,2023,12119,Sumter County,Low,Low
+Housing + Climate + Disaster,2023,12121,Suwannee County,Medium,Medium
+Housing + Climate + Disaster,2023,12123,Taylor County,High,Medium
+Housing + Climate + Disaster,2023,12125,Union County,Low,Medium
+Housing + Climate + Disaster,2023,12127,Volusia County,Medium,High
+Housing + Climate + Disaster,2023,12129,Wakulla County,Low,Low
+Housing + Climate + Disaster,2023,12131,Walton County,Low,Low
+Housing + Climate + Disaster,2023,12133,Washington County,Low,Low
+Housing + Climate + Disaster,2024,12001,Alachua County,Medium,Medium
+Housing + Climate + Disaster,2024,12003,Baker County,Low,Low
+Housing + Climate + Disaster,2024,12005,Bay County,High,Medium
+Housing + Climate + Disaster,2024,12007,Bradford County,Medium,Medium
+Housing + Climate + Disaster,2024,12009,Brevard County,Medium,High
+Housing + Climate + Disaster,2024,12011,Broward County,High,High
+Housing + Climate + Disaster,2024,12013,Calhoun County,Medium,Medium
+Housing + Climate + Disaster,2024,12015,Charlotte County,High,High
+Housing + Climate + Disaster,2024,12017,Citrus County,High,High
+Housing + Climate + Disaster,2024,12019,Clay County,Medium,Medium
+Housing + Climate + Disaster,2024,12021,Collier County,High,Medium
+Housing + Climate + Disaster,2024,12023,Columbia County,High,Medium
+Housing + Climate + Disaster,2024,12027,De Soto County,High,High
+Housing + Climate + Disaster,2024,12029,Dixie County,High,High
+Housing + Climate + Disaster,2024,12031,Duval County,High,High
+Housing + Climate + Disaster,2024,12033,Escambia County,Medium,Medium
+Housing + Climate + Disaster,2024,12035,Flagler County,High,Medium
+Housing + Climate + Disaster,2024,12037,Franklin County,High,Medium
+Housing + Climate + Disaster,2024,12039,Gadsden County,Medium,Medium
+Housing + Climate + Disaster,2024,12041,Gilchrist County,High,Medium
+Housing + Climate + Disaster,2024,12043,Glades County,Medium,Medium
+Housing + Climate + Disaster,2024,12045,Gulf County,Medium,Medium
+Housing + Climate + Disaster,2024,12047,Hamilton County,High,Medium
+Housing + Climate + Disaster,2024,12049,Hardee County,High,Medium
+Housing + Climate + Disaster,2024,12051,Hendry County,High,High
+Housing + Climate + Disaster,2024,12053,Hernando County,High,High
+Housing + Climate + Disaster,2024,12055,Highlands County,Medium,Medium
+Housing + Climate + Disaster,2024,12057,Hillsborough County,High,High
+Housing + Climate + Disaster,2024,12059,Holmes County,Low,Medium
+Housing + Climate + Disaster,2024,12061,Indian River County,Medium,Medium
+Housing + Climate + Disaster,2024,12063,Jackson County,Medium,Medium
+Housing + Climate + Disaster,2024,12065,Jefferson County,Medium,Medium
+Housing + Climate + Disaster,2024,12067,Lafayette County,High,Medium
+Housing + Climate + Disaster,2024,12069,Lake County,Medium,Medium
+Housing + Climate + Disaster,2024,12071,Lee County,High,High
+Housing + Climate + Disaster,2024,12073,Leon County,Medium,Medium
+Housing + Climate + Disaster,2024,12075,Levy County,High,High
+Housing + Climate + Disaster,2024,12077,Liberty County,Low,Medium
+Housing + Climate + Disaster,2024,12079,Madison County,High,Medium
+Housing + Climate + Disaster,2024,12081,Manatee County,High,High
+Housing + Climate + Disaster,2024,12083,Marion County,High,Medium
+Housing + Climate + Disaster,2024,12085,Martin County,Medium,Medium
+Housing + Climate + Disaster,2024,12086,Miami-Dade County,High,High
+Housing + Climate + Disaster,2024,12087,Monroe County,High,Medium
+Housing + Climate + Disaster,2024,12089,Nassau County,Medium,Medium
+Housing + Climate + Disaster,2024,12091,Okaloosa County,Medium,Medium
+Housing + Climate + Disaster,2024,12093,Okeechobee County,Medium,Medium
+Housing + Climate + Disaster,2024,12095,Orange County,Medium,Medium
+Housing + Climate + Disaster,2024,12097,Osceola County,Medium,Medium
+Housing + Climate + Disaster,2024,12099,Palm Beach County,High,High
+Housing + Climate + Disaster,2024,12101,Pasco County,High,High
+Housing + Climate + Disaster,2024,12103,Pinellas County,High,High
+Housing + Climate + Disaster,2024,12105,Polk County,High,Medium
+Housing + Climate + Disaster,2024,12107,Putnam County,High,High
+Housing + Climate + Disaster,2024,12109,Saint Johns County,Low,Medium
+Housing + Climate + Disaster,2024,12111,Saint Lucie County,High,High
+Housing + Climate + Disaster,2024,12113,Santa Rosa County,Medium,Medium
+Housing + Climate + Disaster,2024,12115,Sarasota County,High,High
+Housing + Climate + Disaster,2024,12117,Seminole County,Medium,Medium
+Housing + Climate + Disaster,2024,12119,Sumter County,Medium,Medium
+Housing + Climate + Disaster,2024,12121,Suwannee County,High,Medium
+Housing + Climate + Disaster,2024,12123,Taylor County,High,High
+Housing + Climate + Disaster,2024,12125,Union County,Medium,Medium
+Housing + Climate + Disaster,2024,12127,Volusia County,High,High
+Housing + Climate + Disaster,2024,12129,Wakulla County,Medium,Medium
+Housing + Climate + Disaster,2024,12131,Walton County,Medium,Medium
+Housing + Climate + Disaster,2024,12133,Washington County,Medium,Medium
+Housing + Climate + Disaster,2025,12001,Alachua County,Low,Low
+Housing + Climate + Disaster,2025,12003,Baker County,Low,Low
+Housing + Climate + Disaster,2025,12005,Bay County,Medium,Low
+Housing + Climate + Disaster,2025,12007,Bradford County,Low,Low
+Housing + Climate + Disaster,2025,12009,Brevard County,Medium,Medium
+Housing + Climate + Disaster,2025,12011,Broward County,High,Medium
+Housing + Climate + Disaster,2025,12013,Calhoun County,Low,Low
+Housing + Climate + Disaster,2025,12015,Charlotte County,High,Medium
+Housing + Climate + Disaster,2025,12017,Citrus County,High,Medium
+Housing + Climate + Disaster,2025,12019,Clay County,Low,Low
+Housing + Climate + Disaster,2025,12021,Collier County,High,Medium
+Housing + Climate + Disaster,2025,12023,Columbia County,Low,Low
+Housing + Climate + Disaster,2025,12027,De Soto County,Medium,Medium
+Housing + Climate + Disaster,2025,12029,Dixie County,Medium,Low
+Housing + Climate + Disaster,2025,12031,Duval County,Medium,Medium
+Housing + Climate + Disaster,2025,12033,Escambia County,Medium,Medium
+Housing + Climate + Disaster,2025,12035,Flagler County,Medium,Medium
+Housing + Climate + Disaster,2025,12037,Franklin County,Medium,Low
+Housing + Climate + Disaster,2025,12039,Gadsden County,Low,Low
+Housing + Climate + Disaster,2025,12041,Gilchrist County,Low,Low
+Housing + Climate + Disaster,2025,12043,Glades County,Low,Low
+Housing + Climate + Disaster,2025,12045,Gulf County,Low,Medium
+Housing + Climate + Disaster,2025,12047,Hamilton County,Low,Low
+Housing + Climate + Disaster,2025,12049,Hardee County,Medium,Low
+Housing + Climate + Disaster,2025,12051,Hendry County,Medium,Medium
+Housing + Climate + Disaster,2025,12053,Hernando County,Medium,Medium
+Housing + Climate + Disaster,2025,12055,Highlands County,Medium,Medium
+Housing + Climate + Disaster,2025,12057,Hillsborough County,High,Medium
+Housing + Climate + Disaster,2025,12059,Holmes County,Low,Low
+Housing + Climate + Disaster,2025,12061,Indian River County,Medium,Medium
+Housing + Climate + Disaster,2025,12063,Jackson County,Low,Low
+Housing + Climate + Disaster,2025,12065,Jefferson County,Low,Low
+Housing + Climate + Disaster,2025,12067,Lafayette County,Low,Low
+Housing + Climate + Disaster,2025,12069,Lake County,Medium,Medium
+Housing + Climate + Disaster,2025,12071,Lee County,High,Medium
+Housing + Climate + Disaster,2025,12073,Leon County,Low,Low
+Housing + Climate + Disaster,2025,12075,Levy County,Medium,Low
+Housing + Climate + Disaster,2025,12077,Liberty County,Low,Low
+Housing + Climate + Disaster,2025,12079,Madison County,Low,Low
+Housing + Climate + Disaster,2025,12081,Manatee County,High,Medium
+Housing + Climate + Disaster,2025,12083,Marion County,Medium,Low
+Housing + Climate + Disaster,2025,12085,Martin County,Medium,Medium
+Housing + Climate + Disaster,2025,12086,Miami-Dade County,High,Medium
+Housing + Climate + Disaster,2025,12087,Monroe County,High,Low
+Housing + Climate + Disaster,2025,12089,Nassau County,Low,Low
+Housing + Climate + Disaster,2025,12091,Okaloosa County,Low,Low
+Housing + Climate + Disaster,2025,12093,Okeechobee County,Medium,Medium
+Housing + Climate + Disaster,2025,12095,Orange County,Medium,Medium
+Housing + Climate + Disaster,2025,12097,Osceola County,Low,Medium
+Housing + Climate + Disaster,2025,12099,Palm Beach County,High,Medium
+Housing + Climate + Disaster,2025,12101,Pasco County,High,Medium
+Housing + Climate + Disaster,2025,12103,Pinellas County,High,Medium
+Housing + Climate + Disaster,2025,12105,Polk County,Medium,Medium
+Housing + Climate + Disaster,2025,12107,Putnam County,High,Low
+Housing + Climate + Disaster,2025,12109,Saint Johns County,Low,Low
+Housing + Climate + Disaster,2025,12111,Saint Lucie County,Medium,Medium
+Housing + Climate + Disaster,2025,12113,Santa Rosa County,Low,Low
+Housing + Climate + Disaster,2025,12115,Sarasota County,High,Medium
+Housing + Climate + Disaster,2025,12117,Seminole County,Low,Low
+Housing + Climate + Disaster,2025,12119,Sumter County,Low,Low
+Housing + Climate + Disaster,2025,12121,Suwannee County,Low,Low
+Housing + Climate + Disaster,2025,12123,Taylor County,Medium,Low
+Housing + Climate + Disaster,2025,12125,Union County,Low,Low
+Housing + Climate + Disaster,2025,12127,Volusia County,Medium,Medium
+Housing + Climate + Disaster,2025,12129,Wakulla County,Low,Low
+Housing + Climate + Disaster,2025,12131,Walton County,Medium,Medium
+Housing + Climate + Disaster,2025,12133,Washington County,Low,Low
+Housing + Climate + Disaster + ACS,2023,12001,Alachua County,Low,Low
+Housing + Climate + Disaster + ACS,2023,12003,Baker County,Low,Low
+Housing + Climate + Disaster + ACS,2023,12005,Bay County,High,High
+Housing + Climate + Disaster + ACS,2023,12007,Bradford County,Low,Low
+Housing + Climate + Disaster + ACS,2023,12009,Brevard County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12011,Broward County,High,High
+Housing + Climate + Disaster + ACS,2023,12013,Calhoun County,Medium,Low
+Housing + Climate + Disaster + ACS,2023,12015,Charlotte County,High,High
+Housing + Climate + Disaster + ACS,2023,12017,Citrus County,High,High
+Housing + Climate + Disaster + ACS,2023,12019,Clay County,Low,Low
+Housing + Climate + Disaster + ACS,2023,12021,Collier County,High,High
+Housing + Climate + Disaster + ACS,2023,12023,Columbia County,Medium,Low
+Housing + Climate + Disaster + ACS,2023,12027,De Soto County,High,Medium
+Housing + Climate + Disaster + ACS,2023,12029,Dixie County,High,Medium
+Housing + Climate + Disaster + ACS,2023,12031,Duval County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12033,Escambia County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12035,Flagler County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12037,Franklin County,High,Medium
+Housing + Climate + Disaster + ACS,2023,12039,Gadsden County,Low,Medium
+Housing + Climate + Disaster + ACS,2023,12041,Gilchrist County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12043,Glades County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12045,Gulf County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12047,Hamilton County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12049,Hardee County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12051,Hendry County,Medium,High
+Housing + Climate + Disaster + ACS,2023,12053,Hernando County,High,High
+Housing + Climate + Disaster + ACS,2023,12055,Highlands County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12057,Hillsborough County,High,High
+Housing + Climate + Disaster + ACS,2023,12059,Holmes County,Low,Low
+Housing + Climate + Disaster + ACS,2023,12061,Indian River County,Medium,Low
+Housing + Climate + Disaster + ACS,2023,12063,Jackson County,Low,Low
+Housing + Climate + Disaster + ACS,2023,12065,Jefferson County,Low,Medium
+Housing + Climate + Disaster + ACS,2023,12067,Lafayette County,Low,Low
+Housing + Climate + Disaster + ACS,2023,12069,Lake County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12071,Lee County,High,High
+Housing + Climate + Disaster + ACS,2023,12073,Leon County,Medium,Low
+Housing + Climate + Disaster + ACS,2023,12075,Levy County,High,High
+Housing + Climate + Disaster + ACS,2023,12077,Liberty County,Low,Low
+Housing + Climate + Disaster + ACS,2023,12079,Madison County,Low,Low
+Housing + Climate + Disaster + ACS,2023,12081,Manatee County,High,High
+Housing + Climate + Disaster + ACS,2023,12083,Marion County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12085,Martin County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12086,Miami-Dade County,High,High
+Housing + Climate + Disaster + ACS,2023,12087,Monroe County,High,High
+Housing + Climate + Disaster + ACS,2023,12089,Nassau County,Low,Low
+Housing + Climate + Disaster + ACS,2023,12091,Okaloosa County,Medium,Low
+Housing + Climate + Disaster + ACS,2023,12093,Okeechobee County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12095,Orange County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12097,Osceola County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12099,Palm Beach County,High,High
+Housing + Climate + Disaster + ACS,2023,12101,Pasco County,High,High
+Housing + Climate + Disaster + ACS,2023,12103,Pinellas County,High,High
+Housing + Climate + Disaster + ACS,2023,12105,Polk County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12107,Putnam County,Medium,High
+Housing + Climate + Disaster + ACS,2023,12109,Saint Johns County,Low,Low
+Housing + Climate + Disaster + ACS,2023,12111,Saint Lucie County,Medium,Low
+Housing + Climate + Disaster + ACS,2023,12113,Santa Rosa County,Low,Low
+Housing + Climate + Disaster + ACS,2023,12115,Sarasota County,High,High
+Housing + Climate + Disaster + ACS,2023,12117,Seminole County,Low,Low
+Housing + Climate + Disaster + ACS,2023,12119,Sumter County,Low,Low
+Housing + Climate + Disaster + ACS,2023,12121,Suwannee County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12123,Taylor County,High,High
+Housing + Climate + Disaster + ACS,2023,12125,Union County,Low,Medium
+Housing + Climate + Disaster + ACS,2023,12127,Volusia County,Medium,Medium
+Housing + Climate + Disaster + ACS,2023,12129,Wakulla County,Low,Low
+Housing + Climate + Disaster + ACS,2023,12131,Walton County,Low,Medium
+Housing + Climate + Disaster + ACS,2023,12133,Washington County,Low,Low
+Housing + Climate + Disaster + ACS,2024,12001,Alachua County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12003,Baker County,Low,Low
+Housing + Climate + Disaster + ACS,2024,12005,Bay County,High,High
+Housing + Climate + Disaster + ACS,2024,12007,Bradford County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12009,Brevard County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12011,Broward County,High,High
+Housing + Climate + Disaster + ACS,2024,12013,Calhoun County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12015,Charlotte County,High,High
+Housing + Climate + Disaster + ACS,2024,12017,Citrus County,High,High
+Housing + Climate + Disaster + ACS,2024,12019,Clay County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12021,Collier County,High,High
+Housing + Climate + Disaster + ACS,2024,12023,Columbia County,High,Medium
+Housing + Climate + Disaster + ACS,2024,12027,De Soto County,High,High
+Housing + Climate + Disaster + ACS,2024,12029,Dixie County,High,High
+Housing + Climate + Disaster + ACS,2024,12031,Duval County,High,High
+Housing + Climate + Disaster + ACS,2024,12033,Escambia County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12035,Flagler County,High,Medium
+Housing + Climate + Disaster + ACS,2024,12037,Franklin County,High,Medium
+Housing + Climate + Disaster + ACS,2024,12039,Gadsden County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12041,Gilchrist County,High,Medium
+Housing + Climate + Disaster + ACS,2024,12043,Glades County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12045,Gulf County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12047,Hamilton County,High,Medium
+Housing + Climate + Disaster + ACS,2024,12049,Hardee County,High,Medium
+Housing + Climate + Disaster + ACS,2024,12051,Hendry County,High,Medium
+Housing + Climate + Disaster + ACS,2024,12053,Hernando County,High,High
+Housing + Climate + Disaster + ACS,2024,12055,Highlands County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12057,Hillsborough County,High,High
+Housing + Climate + Disaster + ACS,2024,12059,Holmes County,Low,Medium
+Housing + Climate + Disaster + ACS,2024,12061,Indian River County,Medium,Low
+Housing + Climate + Disaster + ACS,2024,12063,Jackson County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12065,Jefferson County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12067,Lafayette County,High,Medium
+Housing + Climate + Disaster + ACS,2024,12069,Lake County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12071,Lee County,High,High
+Housing + Climate + Disaster + ACS,2024,12073,Leon County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12075,Levy County,High,High
+Housing + Climate + Disaster + ACS,2024,12077,Liberty County,Low,Medium
+Housing + Climate + Disaster + ACS,2024,12079,Madison County,High,High
+Housing + Climate + Disaster + ACS,2024,12081,Manatee County,High,High
+Housing + Climate + Disaster + ACS,2024,12083,Marion County,High,High
+Housing + Climate + Disaster + ACS,2024,12085,Martin County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12086,Miami-Dade County,High,High
+Housing + Climate + Disaster + ACS,2024,12087,Monroe County,High,High
+Housing + Climate + Disaster + ACS,2024,12089,Nassau County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12091,Okaloosa County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12093,Okeechobee County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12095,Orange County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12097,Osceola County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12099,Palm Beach County,High,High
+Housing + Climate + Disaster + ACS,2024,12101,Pasco County,High,High
+Housing + Climate + Disaster + ACS,2024,12103,Pinellas County,High,High
+Housing + Climate + Disaster + ACS,2024,12105,Polk County,High,Medium
+Housing + Climate + Disaster + ACS,2024,12107,Putnam County,High,High
+Housing + Climate + Disaster + ACS,2024,12109,Saint Johns County,Low,Medium
+Housing + Climate + Disaster + ACS,2024,12111,Saint Lucie County,High,Medium
+Housing + Climate + Disaster + ACS,2024,12113,Santa Rosa County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12115,Sarasota County,High,High
+Housing + Climate + Disaster + ACS,2024,12117,Seminole County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12119,Sumter County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12121,Suwannee County,High,High
+Housing + Climate + Disaster + ACS,2024,12123,Taylor County,High,High
+Housing + Climate + Disaster + ACS,2024,12125,Union County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12127,Volusia County,High,High
+Housing + Climate + Disaster + ACS,2024,12129,Wakulla County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12131,Walton County,Medium,Medium
+Housing + Climate + Disaster + ACS,2024,12133,Washington County,Medium,Medium
+Housing + Climate + Disaster + ACS,2025,12001,Alachua County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12003,Baker County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12005,Bay County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12007,Bradford County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12009,Brevard County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12011,Broward County,High,High
+Housing + Climate + Disaster + ACS,2025,12013,Calhoun County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12015,Charlotte County,High,High
+Housing + Climate + Disaster + ACS,2025,12017,Citrus County,High,High
+Housing + Climate + Disaster + ACS,2025,12019,Clay County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12021,Collier County,High,High
+Housing + Climate + Disaster + ACS,2025,12023,Columbia County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12027,De Soto County,Medium,Medium
+Housing + Climate + Disaster + ACS,2025,12029,Dixie County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12031,Duval County,Medium,High
+Housing + Climate + Disaster + ACS,2025,12033,Escambia County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12035,Flagler County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12037,Franklin County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12039,Gadsden County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12041,Gilchrist County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12043,Glades County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12045,Gulf County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12047,Hamilton County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12049,Hardee County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12051,Hendry County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12053,Hernando County,Medium,High
+Housing + Climate + Disaster + ACS,2025,12055,Highlands County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12057,Hillsborough County,High,High
+Housing + Climate + Disaster + ACS,2025,12059,Holmes County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12061,Indian River County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12063,Jackson County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12065,Jefferson County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12067,Lafayette County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12069,Lake County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12071,Lee County,High,High
+Housing + Climate + Disaster + ACS,2025,12073,Leon County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12075,Levy County,Medium,High
+Housing + Climate + Disaster + ACS,2025,12077,Liberty County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12079,Madison County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12081,Manatee County,High,High
+Housing + Climate + Disaster + ACS,2025,12083,Marion County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12085,Martin County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12086,Miami-Dade County,High,High
+Housing + Climate + Disaster + ACS,2025,12087,Monroe County,High,High
+Housing + Climate + Disaster + ACS,2025,12089,Nassau County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12091,Okaloosa County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12093,Okeechobee County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12095,Orange County,Medium,Medium
+Housing + Climate + Disaster + ACS,2025,12097,Osceola County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12099,Palm Beach County,High,High
+Housing + Climate + Disaster + ACS,2025,12101,Pasco County,High,High
+Housing + Climate + Disaster + ACS,2025,12103,Pinellas County,High,High
+Housing + Climate + Disaster + ACS,2025,12105,Polk County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12107,Putnam County,High,Low
+Housing + Climate + Disaster + ACS,2025,12109,Saint Johns County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12111,Saint Lucie County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12113,Santa Rosa County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12115,Sarasota County,High,High
+Housing + Climate + Disaster + ACS,2025,12117,Seminole County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12119,Sumter County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12121,Suwannee County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12123,Taylor County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12125,Union County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12127,Volusia County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12129,Wakulla County,Low,Low
+Housing + Climate + Disaster + ACS,2025,12131,Walton County,Medium,Low
+Housing + Climate + Disaster + ACS,2025,12133,Washington County,Low,Low
+Full Model,2023,12001,Alachua County,Low,Low
+Full Model,2023,12003,Baker County,Low,Low
+Full Model,2023,12005,Bay County,High,High
+Full Model,2023,12007,Bradford County,Low,Low
+Full Model,2023,12009,Brevard County,Medium,Low
+Full Model,2023,12011,Broward County,High,High
+Full Model,2023,12013,Calhoun County,Medium,Medium
+Full Model,2023,12015,Charlotte County,High,High
+Full Model,2023,12017,Citrus County,High,High
+Full Model,2023,12019,Clay County,Low,Low
+Full Model,2023,12021,Collier County,High,High
+Full Model,2023,12023,Columbia County,Medium,Medium
+Full Model,2023,12027,De Soto County,High,Medium
+Full Model,2023,12029,Dixie County,High,High
+Full Model,2023,12031,Duval County,Medium,Medium
+Full Model,2023,12033,Escambia County,Medium,Medium
+Full Model,2023,12035,Flagler County,Medium,Low
+Full Model,2023,12037,Franklin County,High,Medium
+Full Model,2023,12039,Gadsden County,Low,Low
+Full Model,2023,12041,Gilchrist County,Medium,Low
+Full Model,2023,12043,Glades County,Medium,Medium
+Full Model,2023,12045,Gulf County,Medium,Medium
+Full Model,2023,12047,Hamilton County,Medium,Low
+Full Model,2023,12049,Hardee County,Medium,Low
+Full Model,2023,12051,Hendry County,Medium,Medium
+Full Model,2023,12053,Hernando County,High,High
+Full Model,2023,12055,Highlands County,Medium,Medium
+Full Model,2023,12057,Hillsborough County,High,High
+Full Model,2023,12059,Holmes County,Low,Low
+Full Model,2023,12061,Indian River County,Medium,Low
+Full Model,2023,12063,Jackson County,Low,Low
+Full Model,2023,12065,Jefferson County,Low,Low
+Full Model,2023,12067,Lafayette County,Low,Low
+Full Model,2023,12069,Lake County,Medium,Low
+Full Model,2023,12071,Lee County,High,High
+Full Model,2023,12073,Leon County,Medium,Low
+Full Model,2023,12075,Levy County,High,High
+Full Model,2023,12077,Liberty County,Low,Low
+Full Model,2023,12079,Madison County,Low,Low
+Full Model,2023,12081,Manatee County,High,High
+Full Model,2023,12083,Marion County,Medium,High
+Full Model,2023,12085,Martin County,Medium,High
+Full Model,2023,12086,Miami-Dade County,High,High
+Full Model,2023,12087,Monroe County,High,High
+Full Model,2023,12089,Nassau County,Low,Low
+Full Model,2023,12091,Okaloosa County,Medium,Low
+Full Model,2023,12093,Okeechobee County,Medium,Medium
+Full Model,2023,12095,Orange County,Medium,Medium
+Full Model,2023,12097,Osceola County,Medium,Medium
+Full Model,2023,12099,Palm Beach County,High,High
+Full Model,2023,12101,Pasco County,High,High
+Full Model,2023,12103,Pinellas County,High,High
+Full Model,2023,12105,Polk County,Medium,Medium
+Full Model,2023,12107,Putnam County,Medium,Medium
+Full Model,2023,12109,Saint Johns County,Low,Low
+Full Model,2023,12111,Saint Lucie County,Medium,Low
+Full Model,2023,12113,Santa Rosa County,Low,Low
+Full Model,2023,12115,Sarasota County,High,High
+Full Model,2023,12117,Seminole County,Low,Low
+Full Model,2023,12119,Sumter County,Low,Low
+Full Model,2023,12121,Suwannee County,Medium,Medium
+Full Model,2023,12123,Taylor County,High,High
+Full Model,2023,12125,Union County,Low,Low
+Full Model,2023,12127,Volusia County,Medium,High
+Full Model,2023,12129,Wakulla County,Low,Low
+Full Model,2023,12131,Walton County,Low,Low
+Full Model,2023,12133,Washington County,Low,Low
+Full Model,2024,12001,Alachua County,Medium,Medium
+Full Model,2024,12003,Baker County,Low,Low
+Full Model,2024,12005,Bay County,High,High
+Full Model,2024,12007,Bradford County,Medium,Medium
+Full Model,2024,12009,Brevard County,Medium,Medium
+Full Model,2024,12011,Broward County,High,High
+Full Model,2024,12013,Calhoun County,Medium,Medium
+Full Model,2024,12015,Charlotte County,High,High
+Full Model,2024,12017,Citrus County,High,High
+Full Model,2024,12019,Clay County,Medium,Medium
+Full Model,2024,12021,Collier County,High,High
+Full Model,2024,12023,Columbia County,High,High
+Full Model,2024,12027,De Soto County,High,High
+Full Model,2024,12029,Dixie County,High,High
+Full Model,2024,12031,Duval County,High,High
+Full Model,2024,12033,Escambia County,Medium,High
+Full Model,2024,12035,Flagler County,High,High
+Full Model,2024,12037,Franklin County,High,High
+Full Model,2024,12039,Gadsden County,Medium,High
+Full Model,2024,12041,Gilchrist County,High,High
+Full Model,2024,12043,Glades County,Medium,Medium
+Full Model,2024,12045,Gulf County,Medium,High
+Full Model,2024,12047,Hamilton County,High,High
+Full Model,2024,12049,Hardee County,High,Medium
+Full Model,2024,12051,Hendry County,High,High
+Full Model,2024,12053,Hernando County,High,High
+Full Model,2024,12055,Highlands County,Medium,Medium
+Full Model,2024,12057,Hillsborough County,High,High
+Full Model,2024,12059,Holmes County,Low,Low
+Full Model,2024,12061,Indian River County,Medium,Medium
+Full Model,2024,12063,Jackson County,Medium,Medium
+Full Model,2024,12065,Jefferson County,Medium,Medium
+Full Model,2024,12067,Lafayette County,High,High
+Full Model,2024,12069,Lake County,Medium,Medium
+Full Model,2024,12071,Lee County,High,High
+Full Model,2024,12073,Leon County,Medium,Medium
+Full Model,2024,12075,Levy County,High,High
+Full Model,2024,12077,Liberty County,Low,Low
+Full Model,2024,12079,Madison County,High,High
+Full Model,2024,12081,Manatee County,High,High
+Full Model,2024,12083,Marion County,High,High
+Full Model,2024,12085,Martin County,Medium,Medium
+Full Model,2024,12086,Miami-Dade County,High,High
+Full Model,2024,12087,Monroe County,High,High
+Full Model,2024,12089,Nassau County,Medium,Medium
+Full Model,2024,12091,Okaloosa County,Medium,Medium
+Full Model,2024,12093,Okeechobee County,Medium,Medium
+Full Model,2024,12095,Orange County,Medium,Medium
+Full Model,2024,12097,Osceola County,Medium,Medium
+Full Model,2024,12099,Palm Beach County,High,High
+Full Model,2024,12101,Pasco County,High,High
+Full Model,2024,12103,Pinellas County,High,High
+Full Model,2024,12105,Polk County,High,High
+Full Model,2024,12107,Putnam County,High,High
+Full Model,2024,12109,Saint Johns County,Low,Low
+Full Model,2024,12111,Saint Lucie County,High,High
+Full Model,2024,12113,Santa Rosa County,Medium,Low
+Full Model,2024,12115,Sarasota County,High,High
+Full Model,2024,12117,Seminole County,Medium,Low
+Full Model,2024,12119,Sumter County,Medium,Medium
+Full Model,2024,12121,Suwannee County,High,High
+Full Model,2024,12123,Taylor County,High,High
+Full Model,2024,12125,Union County,Medium,Medium
+Full Model,2024,12127,Volusia County,High,High
+Full Model,2024,12129,Wakulla County,Medium,Low
+Full Model,2024,12131,Walton County,Medium,Medium
+Full Model,2024,12133,Washington County,Medium,Low
+Full Model,2025,12001,Alachua County,Low,Low
+Full Model,2025,12003,Baker County,Low,Low
+Full Model,2025,12005,Bay County,Medium,Low
+Full Model,2025,12007,Bradford County,Low,Low
+Full Model,2025,12009,Brevard County,Medium,Medium
+Full Model,2025,12011,Broward County,High,High
+Full Model,2025,12013,Calhoun County,Low,Low
+Full Model,2025,12015,Charlotte County,High,High
+Full Model,2025,12017,Citrus County,High,High
+Full Model,2025,12019,Clay County,Low,Low
+Full Model,2025,12021,Collier County,High,High
+Full Model,2025,12023,Columbia County,Low,Low
+Full Model,2025,12027,De Soto County,Medium,Low
+Full Model,2025,12029,Dixie County,Medium,Low
+Full Model,2025,12031,Duval County,Medium,Medium
+Full Model,2025,12033,Escambia County,Medium,Low
+Full Model,2025,12035,Flagler County,Medium,Low
+Full Model,2025,12037,Franklin County,Medium,Low
+Full Model,2025,12039,Gadsden County,Low,Low
+Full Model,2025,12041,Gilchrist County,Low,Low
+Full Model,2025,12043,Glades County,Low,Low
+Full Model,2025,12045,Gulf County,Low,Low
+Full Model,2025,12047,Hamilton County,Low,Low
+Full Model,2025,12049,Hardee County,Medium,Low
+Full Model,2025,12051,Hendry County,Medium,Low
+Full Model,2025,12053,Hernando County,Medium,High
+Full Model,2025,12055,Highlands County,Medium,Low
+Full Model,2025,12057,Hillsborough County,High,High
+Full Model,2025,12059,Holmes County,Low,Low
+Full Model,2025,12061,Indian River County,Medium,Low
+Full Model,2025,12063,Jackson County,Low,Low
+Full Model,2025,12065,Jefferson County,Low,Low
+Full Model,2025,12067,Lafayette County,Low,Low
+Full Model,2025,12069,Lake County,Medium,Low
+Full Model,2025,12071,Lee County,High,High
+Full Model,2025,12073,Leon County,Low,Low
+Full Model,2025,12075,Levy County,Medium,Low
+Full Model,2025,12077,Liberty County,Low,Low
+Full Model,2025,12079,Madison County,Low,Low
+Full Model,2025,12081,Manatee County,High,High
+Full Model,2025,12083,Marion County,Medium,Low
+Full Model,2025,12085,Martin County,Medium,Low
+Full Model,2025,12086,Miami-Dade County,High,High
+Full Model,2025,12087,Monroe County,High,High
+Full Model,2025,12089,Nassau County,Low,Low
+Full Model,2025,12091,Okaloosa County,Low,Low
+Full Model,2025,12093,Okeechobee County,Medium,Low
+Full Model,2025,12095,Orange County,Medium,Medium
+Full Model,2025,12097,Osceola County,Low,Low
+Full Model,2025,12099,Palm Beach County,High,High
+Full Model,2025,12101,Pasco County,High,High
+Full Model,2025,12103,Pinellas County,High,High
+Full Model,2025,12105,Polk County,Medium,Low
+Full Model,2025,12107,Putnam County,High,Medium
+Full Model,2025,12109,Saint Johns County,Low,Low
+Full Model,2025,12111,Saint Lucie County,Medium,Low
+Full Model,2025,12113,Santa Rosa County,Low,Low
+Full Model,2025,12115,Sarasota County,High,High
+Full Model,2025,12117,Seminole County,Low,Low
+Full Model,2025,12119,Sumter County,Low,Low
+Full Model,2025,12121,Suwannee County,Low,Low
+Full Model,2025,12123,Taylor County,Medium,Low
+Full Model,2025,12125,Union County,Low,Low
+Full Model,2025,12127,Volusia County,Medium,High
+Full Model,2025,12129,Wakulla County,Low,Low
+Full Model,2025,12131,Walton County,Medium,Low
+Full Model,2025,12133,Washington County,Low,Low
